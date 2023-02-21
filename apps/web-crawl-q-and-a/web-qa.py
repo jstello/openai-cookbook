@@ -21,8 +21,8 @@ from openai.embeddings_utils import distances_from_embeddings, cosine_similarity
 HTTP_URL_PATTERN = r'^http[s]*://.+'
 
 # Define root domain to crawl
-domain = "openai.com"
-full_url = "https://openai.com/"
+domain = "eltiempo.com"
+full_url = "https://www.eltiempo.com/justicia"
 
 # Create a class to parse the HTML and get the hyperlinks
 class HyperlinkParser(HTMLParser):
@@ -134,20 +134,23 @@ def crawl(url):
         print(url) # for debugging and to see the progress
 
         # Save text from the url to a <url>.txt file
-        with open('text/'+local_domain+'/'+url[8:].replace("/", "_") + ".txt", "w", encoding="UTF-8") as f:
+        try:
+            with open('text/'+local_domain+'/'+url[8:].replace("/", "_") + ".txt", "w", encoding="UTF-8") as f:
 
-            # Get the text from the URL using BeautifulSoup
-            soup = BeautifulSoup(requests.get(url).text, "html.parser")
+                # Get the text from the URL using BeautifulSoup
+                soup = BeautifulSoup(requests.get(url).text, "html.parser")
 
-            # Get the text but remove the tags
-            text = soup.get_text()
+                # Get the text but remove the tags
+                text = soup.get_text()
 
-            # If the crawler gets to a page that requires JavaScript, it will stop the crawl
-            if ("You need to enable JavaScript to run this app." in text):
-                print("Unable to parse page " + url + " due to JavaScript being required")
-            
-            # Otherwise, write the text to the file in the text directory
-            f.write(text)
+                # If the crawler gets to a page that requires JavaScript, it will stop the crawl
+                if ("You need to enable JavaScript to run this app." in text):
+                    print("Unable to parse page " + url + " due to JavaScript being required")
+                
+                # Otherwise, write the text to the file in the text directory
+                f.write(text)
+        except Exception as e:
+            print(f"Unable to parse page {url} due to {e}")
 
         # Get the hyperlinks from the URL and add them to the queue
         for link in get_domain_hyperlinks(local_domain, url):
