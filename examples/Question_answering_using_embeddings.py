@@ -21,41 +21,6 @@ COMPLETIONS_MODEL = "text-davinci-003"
 EMBEDDING_MODEL = "text-embedding-ada-002"
 
 
-# By default, GPT-3 isn't an expert on the 2020 Olympics:
-
-# Marcelo is a gold medalist swimmer, and, we assume, not much of a high jumper! Evidently GPT-3 needs some assistance here. 
-# 
-# The first issue to tackle is that the model is hallucinating an answer rather than telling us "I don't know". This is bad because it makes it hard to trust the answer that the model gives us! 
-# 
-# # 0) Preventing hallucination with prompt engineering
-# 
-# We can address this hallucination issue by being more explicit with our prompt:
-# 
-
-# To help the model answer the question, we provide extra contextual information in the prompt. When the total required context is short, we can include it in the prompt directly. For example we can use this information taken from Wikipedia. We update the initial prompt to tell the model to explicitly make use of the provided text.
-
-# Adding extra information into the prompt only works when the dataset of extra content that the model may need to know is small enough to fit in a single prompt. What do we do when we need the model to choose relevant contextual information from within a large body of information?
-# 
-# **In the remainder of this notebook, we will demonstrate a method for augmenting GPT-3 with a large body of additional contextual information by using document embeddings and retrieval.** This method answers queries in two steps: first it retrieves the information relevant to the query, then it writes an answer tailored to the question based on the retrieved information. The first step uses the [Embeddings API](https://beta.openai.com/docs/guides/embeddings), the second step uses the [Completions API](https://beta.openai.com/docs/guides/completion/introduction).
-#  
-# The steps are:
-# * Preprocess the contextual information by splitting it into chunks and create an embedding vector for each chunk.
-# * On receiving a query, embed the query in the same vector space as the context chunks and find the context embeddings which are most similar to the query.
-# * Prepend the most relevant context embeddings to the query prompt.
-# * Submit the question along with the most relevant context to GPT, and receive an answer which makes use of the provided contextual information.
-
-# # 1) Preprocess the document library
-# 
-# We plan to use document embeddings to fetch the most relevant part of parts of our document library and insert them into the prompt that we provide to GPT-3. We therefore need to break up the document library into "sections" of context, which can be searched and retrieved separately. 
-# 
-# Sections should be large enough to contain enough information to answer a question; but small enough to fit one or several into the GPT-3 prompt. We find that approximately a paragraph of text is usually a good length, but you should experiment for your particular use case. In this example, Wikipedia articles are already grouped into semantically related headers, so we will use these to define our sections. This preprocessing has already been done in [this notebook](fine-tuned_qa/olympics-1-collect-data.ipynb), so we will load the results and use them.
-
-# In[6]:
-
-
-pwd
-
-
 # In[7]:
 
 
@@ -81,14 +46,14 @@ print(f"{len(df)} rows in the data.")
 # In[9]:
 
 
-def get_embedding(text: str, model: str=EMBEDDING_MODEL) -> list[float]:
+def get_embedding(text: str, model: str=EMBEDDING_MODEL):
     result = openai.Embedding.create(
       model=model,
       input=text
     )
     return result["data"][0]["embedding"]
-
-def compute_doc_embeddings(df: pd.DataFrame) -> dict[tuple[str, str], list[float]]:
+# %%
+def compute_doc_embeddings(df: pd.DataFrame):
     """
     Create an embedding for each row in the dataframe using the OpenAI Embeddings API.
     
@@ -102,7 +67,7 @@ def compute_doc_embeddings(df: pd.DataFrame) -> dict[tuple[str, str], list[float
 # In[10]:
 
 
-def load_embeddings(fname: str) -> dict[tuple[str, str], list[float]]:
+def load_embeddings(fname: str):
     """
     Read the document embeddings and their keys from a CSV.
     
@@ -128,11 +93,12 @@ def load_embeddings(fname: str) -> dict[tuple[str, str], list[float]]:
 # Read api key from environment variable
 import os
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 document_embeddings = compute_doc_embeddings(df)
-
-
+# %%
+# Save the embeddings to a CSV so we can load them later.
+pd.DataFrame(document_embeddings).T.to_csv("fine-tuned_qa/porce-III-data/Porce Embeddings.csv")
 # In[12]:
 
 
@@ -229,8 +195,8 @@ def construct_prompt(question: str, context_embeddings: dict, df: pd.DataFrame) 
         chosen_sections_indexes.append(str(section_index))
             
     # Useful diagnostic information
-    print(f"Selected {len(chosen_sections)} document sections:")
-    print("\n".join(chosen_sections_indexes))
+    # print(f"Selected {len(chosen_sections)} document sections:")
+    # print("\n".join(chosen_sections_indexes))
     
     header = """Answer the question as truthfully as possible using the provided context, and if the answer is not contained within the text below, say "I don't know."\n\nContext:\n"""
     
@@ -275,6 +241,12 @@ def answer_query_with_context(
     document_embeddings: dict[(str, str), np.array],
     show_prompt: bool = False
 ) -> str:
+    
+    import textwrap
+
+    def split_string(string):
+        lines = textwrap.wrap(string, width=80)
+        return '\n'.join(lines)
     prompt = construct_prompt(
         query,
         document_embeddings,
@@ -289,23 +261,43 @@ def answer_query_with_context(
                 **COMPLETIONS_API_PARAMS
             )
 
-    return response["choices"][0]["text"].strip(" \n")
+    string = split_string(response["choices"][0]["text"].strip(" \n"))
+    animate_string(string)
+    return
 
 
 # In[32]:
 
 
-answer_query_with_context("Cual es la fuente sismogenica?", df, document_embeddings)
+answer_query_with_context("Cual es la fuente sismogenica predominante para la presa Porce III? Responde en detalle", df, document_embeddings)
+
+# %%
+import time
+
+def animate_string(long_string, time_step=0.1, line_length=80):
+    words = long_string.split()
+    current_line = ""
+    for word in words:
+        if len(current_line) + len(word) + 1 > line_length:
+            print(current_line)
+            current_line = word + " "
+        else:
+            current_line += word + " "
+        time.sleep(time_step)
+    print(current_line)
+
+# Example usage
+long_string = "This is a very long string that needs to be printed out word by word in an animation with a short time step and create a new line after about 80 characters."
+animate_string(long_string)
 
 
-# By combining the Embeddings and Completions APIs, we have created a question-answering model which can answer questions using a large base of additional knowledge. It also understands when it doesn't know the answer! 
-# 
-# For this example we have used a dataset of Wikipedia articles, but that dataset could be replaced with books, articles, documentation, service manuals, or much much more. **We can't wait to see what you create with GPT-3!**
-# 
-# # More Examples
-# 
-# Let's have some fun and try some more examples.
 
+# %%
+query = "En qué consiste un análisis de amenaza sísmica probabilístico?"
+answer_query_with_context(query, df, document_embeddings)
+# %%
+answer = answer_query_with_context("Cual es la fuente sismogenica predominante para la presa Porce III? Responde en detalle", df, document_embeddings)
+print(split_string(answer))
 # %%
 answer_query_with_context("Cuales son los escenarios de amenaza sismica considerados?", df, document_embeddings)
 # %%
