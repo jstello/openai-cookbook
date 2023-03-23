@@ -1,0 +1,2049 @@
+page_number,heading,content,tokens
+7,,,75
+7,1. INTRODUCCIÓN,"Como parte de los estudios de complementación y actualización de la factibilidad del proyecto, la 
+firma INGETEC S.A., realizó el estudio de evaluaci ón de la amenaza sísmica, el cual fue concluido 
+y presentado en enero de 1998. El alcance previsto inicialmente para los estudios sismológicos de 
+la etapa de diseño fue el de evaluar los parámetros sísmicos para el diseño sismorresistente de las 
+obras del proyecto. El trabajo se inició en mayo  de 2002 con este único objetivo. Sin embargo, se 
+consideró importante realizar antes una evaluaci ón de la nueva información sismológica disponible 
+para la zona, representada en varios estudios rea lizados por diferentes firmas, durante el período 
+comprendido entre enero/98 y mayo/02. La revisión indicó la necesidad de realizar una 
+reevaluación de la amenaza sísmica del proyec to, ya que se disponía de nuevos datos y dado que 
+los resultados de varios de los estudios diferían entre sí y diferían de los resultados del estudio 
+sismológico de factibilidad. 
+ 
+El Consorcio propuso entonces a EEPPM, en el Info rme de Apertura del Lote de Trabajo, realizar 
+la reevaluación de la amenaza sísmica, como par te de las actividades previstas para la etapa de 
+diseño del proyecto. 
+ 
+El presente informe resume los estudios si smológicos de la etapa de diseño del proyecto. 
+ 
+El informe comienza con un resumen de los estudi os consultados, incluido en el Capítulo 2, 
+continúa con la reevaluación de la amenaza sísmic a, contenida en el Capítulo 3 y finaliza con 
+evaluación de los parámetros sísmicos de diseño (Capítulo 4). 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",691
+8,,,75
+8,2. RESUMEN DE ESTUDIOS ANTERIORES,"Para comenzar los estudios sismológicos de la etapa de diseño del proyecto Porce III, se procedió 
+a recopilar los informes sobre trabajos sism ológicos llevados a cabo para otros proyectos 
+localizados en la región de Antioquia.  A continuac ión se presenta una síntesis de los informes 
+revisados. 
+ 
+ 
+2.1 GEOLOGÍA SÍSMICA Y SISMICI DAD DEL NOROESTE DE COLOMBIA 
+ 
+Este trabajo compila los resultados de las invest igaciones realizadas por la firma Woodward -
+ Clyde Consultants (WCC), para varios proyectos hidroeléctricos localizados en la región Noroeste 
+de Colombia, en lo referente a geología sísmica y sismicidad.  Aunque su fecha de publicación 
+(1986) es anterior a la realización de los estudios  de factibilidad, no fue revisado como parte de los 
+estudios de esa etapa, y dado que es un resumen de la sismicidad del noroeste de Colombia 
+(incluyendo el departamento de Antioquia), se cons ideró importante hacer su revisión en esta 
+etapa de diseño. 
+ 
+En el capítulo I del informe se resume las características de los proyectos incluidos en el trabajo, 
+varios de los cuales están localizados fuera de la denominada región Noroccidental de Colombia. 
+ 
+En el capítulo II el informe presenta las defin iciones de la terminología utilizada en el tema del 
+riesgo sísmico y resume la metodología general ap licada en los diferentes estudios de sismicidad 
+realizados por WCC. 
+ 
+En el capítulo III se presenta lo que se denomina el marco tectónico regional de Colombia.  Se 
+indica que los mecanismos tectónicos primarios que afectan el NO de Colombia son la subducción 
+y el fallamiento transcurrente.  En Colombia la placa de Nazca se desplaza hacia el oriente y se 
+introduce por debajo de la placa de Suramérica que se mueve hacia el oeste.  En la zona de 
+Panamá parece que la placa de Nazca se desliza hacia el oriente a lo largo de la placa del Caribe 
+(que tiene un pequeño desplazamiento hacia al occidente).  En Venezuela y Colombia la placa 
+Suramericana se desplaza más rápidamente hacia el oeste que la placa del Caribe.  En el modelo 
+de subducción propuesto, la zona de subducción entre la placa de Nazca y la de Suramérica, 
+termina en la denominada unión triple del Darién, delimitada por una línea imaginaria que une el 
+Darién con Bucaramanga.  Adicionalmente, el NO de Colombia, aunque geográficamente forma 
+parte de Suramérica, no pertenece claramente a la placa Suramericana ni a la del Caribe, sino que 
+sería una zona de deformación independiente de unos  600 km de ancho, situada entre estas 
+placas, al oriente de la unión triple del Darién.   Aunque el movimiento de subducción es hacia el 
+oriente y hacia el este - nordeste, los esfuer zos compresionales de la corteza tienen sentido 
+predominante NO - SE, reflejando la convergencia de las placas Caribe y Suramérica. 
+ 
+Los efectos de estos desplazamientos relativos son compresionales sobre la corteza terrestre, 
+ocasionando levantamientos en las montañas, hundimiento en las cuencas, plegamientos y 
+fallamientos.  Los movimientos tectónicos afec tan zonas muy amplias presentándose cambios en 
+los patrones de deformación de un lugar a otro y de tiempo en tiempo, repitiéndose periódicamente 
+en el mismo lugar.  Las condiciones tectónicas actuales en la región de unión triple han tenido 
+vigencia sólo durante los últimos cinco millones de años, ya que los límites eran diferentes antes 
+de este tiempo.  Por estas razones los límites de las placas Sudamérica y Caribe y el límite de la 
+subducción cerca al punto triple son complejos y difíciles de definir. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1374
+9,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.. 3    Los Andes Septentrionales han evolucionado a través de una historia compleja marcada por tres  ciclos principales denominados orogénico-tectónico s, durante estos ciclos, la zona de subducción  ha migrado hacia el oeste, hasta su posición actual  en el Océano Pacífico.. El “salto” progresivo de  la zona de subducción hacia el oeste se debe a que la  tasa de desplazamiento absoluto de la placa  de Nazca y su predecesora, la placa de Farallón, hacia el este es mayor que el de la placa de  Sudamérica hacia el oeste.. La placa de Farallón se fracturó durante el Mioceno Medio, hace unos  25 millones de años, dando origen a las actuales placas de Nazca y Cocos.. Estas dos placas  inicialmente tuvieron tasas de desplazamiento iguales , hacia el este, pero la colisión de la dorsal  de Carnegie con la placa de Sudamérica produj o su superación, dando origen a dos fosas y  diferenciando las tasas de subducción de las citadas placas de Nazca y Cocos.. La colisión de  América Central con Sudamérica interrumpió la s ubducción al norte de la unión triple del Darién y  fusionó las placas Suramericana y Caribe en el área del noroccidente de Colombia y oriente de  Panamá.. La subducción actual termina a lo largo de la línea imaginaria que une el Darién y  Bucaramanga.. Los límites entre placas activas de la corteza terrestre se caracterizan por ser zonas de alta  sismicidad correspondientes a las altas ta sas de deformación que allí se presentan.. El límite de las placas de Nazca y Sudamérica en el Occidente de Colombia y Ecuador sigue la  zona de alta sismicidad a lo largo de la fosa Ecuador-Colombia.. Aquí la subducción se presenta  en forma clara dentro de una zona bien definida llamadas zona de Benioff que buza al oriente y  que está estrechamente relacionada con el vulcanismo existente al sur de Manizales.. La tasa de  convergencia este-oeste de las dos placas al  sur de Buenaventura fluctúa entre 40  mm/año y  80 mm/año.. El ángulo de subducción entre Buenav entura y la unión del Darién mide entre 15o y  20o, siendo menor al norte.. Al sur de Buenaventura el ángulo de subducción es de 32O.. El límite de las placas en la denominada unión triple del Darién no está claro, aunque la zona se  caracteriza por una alta tasa de sismicidad, cuyo  patrón define tres alineamientos: El primero,  hacia el occidente, a lo largo de la fosa de Panamá,  el segundo, hacia el sureste, a lo largo de la  fosa Colombia-Ecuador y el tercero, hac ia el norte, entre Panamá y Colombia.. La porción norte de la placa Suramericana correspondiente al norte de Colombia, y en la cual se  localiza el departamento de Antioquia, se denom ina Bloque Andino-Norte.. Esta zona se  caracteriza por su fallamiento regional durante el Te rciario y el Cuaternario, los estudios indican  que la deformación intrabloque está ocurriendo a lo largo de muchas fallas.. Se incluyen las fallas  confinantes, tales como las frontales orientales  de la Cordillera Oriental y fallas internas o  intraplaca como las de Romeral, Palestina y Bucaramanga, en Colombia y Valerá, en Venezuela.. Los desplazamientos a lo largo de las zonas de falla interplaca corresponden a un esfuerzo  compresional tectónico regional hacia el noroeste.. La región denominada Bloque Andino Norte comparte  las características de las placas de  Sudamérica y del Caribe.. Se trata de una zona amplia de deformación que corresponde  geográficamente al noroccidente de Colombia y que está delimitada por el Océano Pacífico, la  frontera Colombia - Panamá, el mar Caribe, la cuenca de Maracaibo y los Llanos Orientales.. Los  movimientos tectónicos en el bloque se producen por la subducción de la placa Nazca bajo la de  Sudamérica y el movimiento relativo hacia el oes te de la placa del Caribe con respecto a la de  Sudamérica.. Los terremotos se presentan más frecuentemente en las estructuras asociadas con la subducción.. La mayor sismicidad histórica en Colombia se ha presentado en la zona de subducción poco  profunda a lo largo de la costa del Pacífico.. Al sur de Colombia han ocurrido grandes sismos con  magnitud incluso mayor que ocho, con epicentro hacia el occidente del continente.. En el  INGETEC S.A. – KLO HN CRIPPEN CO ..",1431
+10,,"continente han ocurrido sismos con magnitud al rededor de siete, con epicentro en la placa 
+descendente (Nazca). 
+ 
+En el capítulo IV se hace un análisis de la in formación sísmica recopilada por WCC durante los 
+estudios de riesgo sísmico que esta empresa ha adelantado en Colombia para varios proyectos 
+hidroeléctricos.  El informe incluye en el A péndice A, el catálogo cronológico de los sismos 
+ocurridos entre 1595 y 1978 (contiene datos parciales para 1979 y 1980), para la región 
+comprendida entre las longitudes 71° W y 78,5° W y las latitudes 4,0°N y 10°N. 
+ 
+Se incluyen mapas de epicentros y de di stribución en profundidad de los sismos. 
+ 
+También se incluyen gráficos de recurrencia de magnitudes para la zona de subducción y se 
+presentan análisis de mecanismo focal para varios de los sismos. 
+ 
+El capítulo V describe los aspectos geológicos y el capítulo VI se refiere a la geología del 
+Cuaternario. 
+ 
+En el capítulo VII se analiza la actividad de las fallas.  La zona incluida en el trabajo es muy amplia 
+y abarca prácticamente todo el territorio colomb iano, sin embargo, en el resumen que sigue, sólo 
+se presenta la información concerniente a las fallas de las Cordilleras Central y Occidental. 
+ 
+• Zona de Falla Palestina, incluye las fallas Pa lestina, Norcasia, Patio Bonito, San Diego, 
+Mulato, Jetudo, Jetudo Este, Cocorná, Cimita rra, Bagre Norte y Otú Norte y abarca una zona 
+de 500 km de longitud y de 0,5 km a 30 km de ancho.   La primera de ellas, la Falla Palestina 
+propiamente dicha, tiene una longitud superior a 410 km y tiene una dirección N10° a 20°E; 
+presenta evidencias de desplazamientos durante el Cuaternario.  Se le atribuye un grado de 
+actividad bajo. 
+ 
+A las demás fallas que conforman el sistema se les atribuye un grado de actividad de bajo a 
+muy bajo. 
+ 
+• Falla Espíritu Santo, es una de las principales fallas de la Cordillera Central.  Se extiende en 
+una longitud aproximada de 300 km, desde la población de Liborina en Antioquia hasta la 
+cuenca del Bajo Cauca, siguiendo una dirección N25°E.  Tiene evidencia de 
+desplazamientos cuaternarios en varios siti os. El tipo de movimiento es de rumbo, aunque 
+también se le atribuyen desplazamientos vertic ales.  Su grado de actividad se califica como 
+de bajo a moderado. 
+ 
+• Zona de Falla Romeral, sigue una dirección norte, extendiéndose desde la frontera 
+Colombo-Ecuatoriana hasta la ciudad de Barranquilla, al norte de Colombia, con una 
+longitud aproximada de 1200 km. 
+ 
+La zona de falla tiene un ancho hasta de 20 km y se compone de numerosas fallas 
+subparalelas, con nombres particulares, con longitudes desde unos pocos kilómetros hasta 
+más de 50 km. 
+ 
+El tipo y sentido del movimiento varían en los di ferentes sectores de la falla, pero en general 
+son de rumbo, combinados con desplazamientos verticales. 
+ 
+Algunas de las fallas que componen el sistema s on:  Sabanalarga, Sincelejo, Sardinas, 
+Popayán-Piendamó, Heliconia, Caldas, Sopetr án e Ituango.  Varias de éstas presentan 
+evidencias de actividad reciente, en particula r, la falla Popayán-Piendamó es importante 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1332
+11,,"pues se considera que sobre ella se originó el sismo que afectó a la ciudad de Popayán el 
+31 de marzo de 1983. 
+ 
+El grado de actividad de las fallas que componen el sistema varía desde moderado a muy 
+bajo. 
+• Zona de Falla Cauca, se extiende al occidente de la zona de falla de Romeral y transcurre 
+paralelamente a ésta desde el Ecuador hasta las zonas bajas del Caribe, cerca de Montería, 
+para una longitud total de aproximadamente 800 km. 
+ 
+Entre las fallas que componen el sistema se encuentran Anzá, Cauca-Oeste, Peque, San 
+Jorge, Alto Sinú y Bolívar. 
+ 
+El grado de actividad de las fallas que componen el sistema varía entre moderado y bajo. 
+ 
+ 
+2.2 ESTUDIOS SISMOLÓGICOS PARA PRO YECTOS HIDROELÉCTRICOS EN LA 
+REGIÓN DE ANTIOQUIA 
+ 
+En la región del departamento de Antioquia están lo calizados numerosos proy ectos hidroeléctricos, 
+algunos ya construidos y los demás  en diversas etapas de estudio. 
+ 
+Para varios de estos  proyectos existen estudios sismológicos, realizados por diferentes firmas.  
+Los proyectos importantes cercanos a Porce III que cuentan con estudios sismológicos, cuya 
+información estuvo disponible para el estudio sismológico del proyecto Porce III, son los siguientes:  
+Porce II, Nechí, Ituango, Riogrande, San Carlos y Cañafisto. 
+ 
+La síntesis de los estudios para los proyectos Ituango, Riogrande, San Carlos y Cañafisto, ya fue 
+incluida en el Informe de Sismicidad y Amenaza Sísmica, presentado en enero de 1998 por el 
+Consorcio Ingetec S.A. - Hidramsa - CCC, con motivo de los Estudios de Complementación y 
+Actualización de la Factibilidad Técnica del proyecto Porce III. 
+ 
+En el informe aludido, también se incluyó la sínt esis de los estudios sismológicos de prefactibilidad 
+y factibilidad del proyecto Nechí, realizados por Ingetec S.A., (1982 y 1983) e igualmente se incluyó 
+el resumen del informe final del Estudio de Ri esgo Sísmico del proyecto Porce II, correspondiente 
+al  diseño, realizado por Integral (1990). 
+ 
+Con motivo de los estudios para el diseño del proyecto Porce III, a cargo del consorcio 
+Ingetec S.A. - Klohn Crippen, se tuvo acceso al Informe Final de Evaluación de Amenaza Sísmica, 
+de la etapa de diseño del proyecto Nechí, realizado por Integral - SEDIC (1998) y al informe de la 
+Revisión del Estudio de Amenaza Sísmica del proy ecto Porce II (Integral, 1991).  Ya que ambos 
+informes incluyen información nueva, relevant e para el proyecto Porce III, se presenta a 
+continuación una síntesis de estos informes. 
+ 
+ 
+2.2.1 Estudio sismológico proy ecto Nechí - Etapa de diseño 
+ 
+Los estudios sismológicos para el diseño de las obras del proyecto hidroeléctrico Nechí fueron 
+realizados por el Consorcio Integral - Sedic S.A.  durante el año 1998.  Los estudios consistieron en 
+la evaluación de la amenaza sísmica utilizando una metodología probabilística integrando la 
+información tectónica y la información sismológica disponibles para la región.  Para complementar 
+el estudio tectónico de la zona, el consor cio instaló y operó una red local de sismógrafos. 
+ 
+A continuación se resumen los aspecto s más importantes de este estudio: 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1370
+12,,"• Red local de sismógrafos. La red local de sismógr afos instalada por el consorcio consistió de 
+diez aparatos distribuidos en una zona cuyo  tamaño aproximado fue de 50 km en dirección 
+este - oeste y de 80 km en dirección norte - sur, esta zona se definió así con el propósito de 
+abarcar el área de los sistemas de fallas Espíri tu Santo y Nechí.  La red se operó durante el 
+período septiembre - Diciembre de 1997, tiempo durante el cual se detectaron numerosos 
+eventos sísmicos, 161 de ellos locales o cercanos a la red. 
+ 
+Como resultado de la operación de la red, el consorcio plantea una serie de 
+consideraciones. La primera, es que el pl ano de Benioff estaría a una profundidad de entre 
+50 km y 75 km bajo el proyecto, sin embargo, se afirma que la sismicidad asociada con la 
+subducción debajo del proyecto es muy baja.  La segunda consideración es que la 
+microsismicidad detectada sugiere actividad proveniente de las fallas Cauca, Romeral, 
+Espíritu Santo y Palestina. 
+ 
+• Información tectónica. Las fallas consideradas importantes para el proyecto desde el punto 
+de vista de su incidencia en el riesgo sísmico son Espíritu Santo, Nechí y Romeral, aunque 
+también se considera importante como generadora de actividad sísmica, la zona de 
+subducción de las placas Nazca y Suramérica. 
+ 
+Durante el estudio se realizaron investigaci ones de neotectónica para evaluar la actividad de 
+las fallas  Espíritu Santo y Nec hí. 
+ 
+La falla Espíritu Santo se define como una es tructura con predomino del desplazamiento de 
+tipo normal, con una longitud aproximada de 125 km y con algunas manifestaciones de 
+actividad tectónica reciente.  Se le  atribuye un grado de actividad moderado. 
+ 
+La falla Nechí se considera como una estructura de aproximadamente 30 km de longitud, 
+con un grado de actividad de bajo a muy bajo. 
+ 
+Otras fallas locales consideradas en el estudio son las de Santa Gertrudis y Tenche - 
+Ermitaño, cuyo grado de actividad es considerado bajo. 
+ 
+• Análisis de amenaza sísmica. En el estudi o se utilizó un modelo probabilístico para la 
+evaluación de la amenaza sísmica del proyecto.  Las fuentes sísmicas consideradas fueron 
+las Fallas Espíritu Santo, Palestina, Romera l, Cauca, la zona de subducción (interplaca e 
+intraplaca), como fuentes regionales y las fallas Santa Gertrudis, Tenc he - Pato, Otú Norte, 
+Bagre, Santa Rita, como fuentes locale s; también se consideró una fuente denominada 
+sismicidad de fondo que incluía los eventos sí smicos no asociables a fallas conocidas. 
+ 
+Como información sismológica se utilizó el ca tálogo sísmico de la Red Sismológica Nacional, 
+extractando de éste los eventos ocurridos hasta una distancia máxima de 200 km del 
+proyecto. 
+ 
+Se aplicaron las ecuaciones de atenuación de Abrahamson (1997), Boore (1997) y Sadigh 
+(1997). 
+ 
+El análisis probabilístico se realizó mediante el programa EZ - FRISK 4.0, el cual calcula las 
+frecuencias anuales de excedencia de varios nive les de aceleración en el sitio de interés. 
+ 
+• Resultados. Para el cálculo de la aceleraci ón del proyecto, se analizaron varios casos 
+teniendo en cuenta las incertidumbres asociadas  con la actividad de las fallas, con la 
+magnitud última de cada fuente, con el m odelo de recurrencia de magnitudes y con la 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1392
+13,,"ecuación de atenuación. Se efectuaron análisis separados para el sitio de presa y para la 
+casa de máquinas del proyecto. 
+ 
+Los resultados se relacionaron con el Sismo Básico de Operación (S.B.O.), Sismo Máximo 
+Probable (S.M.P.) y Sismo Máximo Creíble (S.M.C.), definidos respectivamente como 
+sismos con período de retorno de 200 años, 500 años y 1000 años.  Las aceleraciones 
+obtenidas fueron de 0,18 g, 0,26 g y 0.40 g, para el sitio de presa y de 0,23 g, 0,35 g y 0,64 g 
+para la casa de máquinas. 
+El informe también presenta los espectros de seudoaceleración y aceler ogramas sintéticos 
+para el sitio de presa y casa de máqui nas, para 200 años, 500 años y 1000 años de período 
+de retorno. 
+ 
+ 
+2.2.2 Proy ecto Hidroeléctrico Porce II – Re visión del estudio de riesgo sísmico de la 
+etapa de diseño 
+ 
+En la revisión del estudio de riesgo sísmic o del proyecto Porce II, realizada en 1991, se 
+mantuvieron sin modificación la s fuentes sísmicas y las magnitudes máximas consideradas para 
+cada una de ellas en los estudios de la etapa de diseño,  así: Falla Palestina 7,0; Falla Romeral 7,5, 
+Falla Espíritu Santo 7,5, Falla Salinas 7,4 y Zona de Benioff 7,5. 
+ 
+Al mantenerse los mismos límites de magnitud,  las aceleraciones máximas de los sismos 
+asociados a cada una de las fuentes también se consideraron invariables, de modo que la 
+aceleración máxima para el proyecto continua siendo igual a 0,22 g. 
+ 
+Para el cálculo del espectro de dis eño fue utilizado un grupo de 13 acelerogramas 
+correspondientes a otros tantos si smos con características generales similares, algunos ocurridos 
+en Colombia y otros en USA, incluyendo un sism o sintético.  El espectro de diseño fue 
+seleccionado por criterios estadísticos entre los espectros calculados para los sismos. 
+ 
+En julio de 2002 el consorcio que tiene a cargo lo s estudios del proyecto Porce III, recibió una 
+nueva revisión del estudio de amenaza sísmica del  proyecto Porce II, realizada por la firma 
+Integral. En este documento se menciona una zona de subducción local, con características 
+sismológicas particulares con respecto a la  subducción regional, aunque no se incluyen detalles 
+sobre la caracterización de esta fuente, ni sobre la forma en la cual se incluyó en el nuevo análisis 
+de amenaza. Se presenta una nueva curva de recu rrencia de aceleraciones, indicándose que la 
+aceleración máxima recomendada es de 0,18g y que está controlada por la mencionada zona de 
+subducción local. 
+ 
+ 
+2.2.3 Actualización del Estudio de Sismología de la Presa Santa Rita 
+ 
+El informe fue realizado por la firma Int egral y publicado en octubre de 1998. Contiene la 
+evaluación de la amenaza sísmica de la presa Santa Rita utilizando métodos probabilísticos. Las 
+fuentes sismogénicas consideradas fueron las falla s ubicadas dentro del círculo de radio 100 km 
+alrededor del proyecto y la zona de subducción. Se  incluyeron fallas regionales y locales. Como 
+regionales se  
+consideraron las siguientes fallas y magnitudes máxi mas: Espíritu Santo (7,0), Palestina (7,0), 
+Romeral (7,0) y Cauca (7,0). La subducción se  dividió en quince subfuentes con una magnitud 
+máxima de 7,0. 
+ 
+Los resultados obtenidos fueron de 0,15g para el Si smo Básico de Operación, 0,22g para el Sismo 
+Máximo Probable y 0,31g para el Sismo Máximo Creíble. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1456
+14,,"2.2.4 Estudio de microzonificación de la ciudad de Medellín 
+ 
+Fue realizado por Integral y otras firmas y publicado en julio de 1999. Aunque el estudio cubre 
+varios aspectos adicionales al tema de evaluaci ón de amenaza, como instrumentación sísmica y 
+microzonificación geotécnica, desde el punto de vista de los estudios del proyecto Porce III, el más 
+importante es el relacionado con la amenaza sísmica y este es el tema que se resume a 
+continuación. 
+ 
+Se tomó como área de influencia de la ciudad de Medellín un rectángulo de 600 km en sentido 
+Norte – Sur por 750 km en sentido Este – Oeste.  Las fuentes sísmicas regionales consideradas 
+fueron las fallas Cauca, Romeral, Espíritu S anto y Palestina y la zona de subducción. La zona de 
+subducción fue subdividida en una componente r egional, correspondiente a la denominada zona 
+de Benioff del Viejo Caldas y en varias componentes locales, definidas con base en 
+concentraciones de focos alrededor de ubicaciones ca racterísticas. En el estudio también se 
+incluyeron varias fallas locales, que por su gran distancia al sitio del proyecto Porce III no tienen 
+incidencia sobre éste. 
+ 
+Los valores de magnitud última considerados par a cada una de las fuentes fueron los siguientes: 
+Cauca: 7,0; Romeral: 6,9; Espíri tu Santo: 6,2; Palestina: 7,0;  Subducción del Viejo Caldas: 7,5 y 
+subducción local: 7,0. También se consideraron por separado algunos ramales de la falla Romeral, 
+asignándoles magnitudes máximas de 6,5 y se agruparon los sismos no asociables a fuentes 
+conocidas, como una fuente adicional denominada si smicidad de fondo, con una magnitud máxima 
+de 6,5. 
+ 
+El estudio concluyó que la aceleración máxima esperada en la ciudad de Medellín es de 0,15g 
+para un período de retorno de 475 años. La curva de amenaza incluida en el informe permite 
+obtener valores de aceleración para otros perí odos de retorno, observándose que para un período 
+de retorno de 1000 años la aceleración es de 0,24g aproximadamente. 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",914
+15,,,71
+15,3. EVALUACIÓN DE AMENAZA SÍSMICA,"3.1 METODOLOGÍA 
+ 
+Siguiendo los planteamientos incluidos en el Inform e de Criterios y Parámetros de Diseño del Lote 
+de Trabajo 1.8 (Junio de 2002), para la evaluación de la amenaza sísmica del proyecto se aplicará 
+un modelo de análisis que tiene en cuenta la historia  sísmica de la región y su emplazamiento 
+tectónico.  
+ 
+El conocimiento tectónico de la región en la cual se localiza el proyecto es fundamental para la 
+realización del análisis de amenaza sísmica, teniendo en cuenta que los sismos de importancia 
+para la ingeniería se originan en los mecanismos de la tectónica de placas.  El primer paso para 
+identificar la tectónica de un sitio es investigar  la presencia de fallas geológicas en su vecindad, ya 
+que estas se constituyen en fuentes  potenciales de actividad sísmica. 
+ 
+La mayoría de los investigadores en el tema sugieren utilizar como parámetro de medida de la 
+amenaza sísmica, la aceleración del terreno en el sitio de interés, siendo este el parámetro en el 
+cual se basan los códigos de diseño sismorresi stente usados en la actualidad en el mundo, y en 
+particular, la Norma NSR-98, aplicada en Colombia. 
+ 
+El cálculo de la aceleración máxima del te rreno correspondiente a los eventos sísmicos que 
+afectan el sitio de un proyecto, que incl uya una presa, puede basarse en metodologías 
+determinísticas o probabilísticas co mo indica  el USCOLD (1999). 
+ 
+ 
+3.1.1 Ev aluación determinística 
+ 
+En el enfoque determinístico se comienza por plantear todos los posibles escenarios de amenaza 
+sísmica a los cuales está expuesto el proy ecto. Luego se procede a calcular para cada uno de 
+ellos el efecto sobre el sitio, esto es, la m agnitud del movimiento del terreno, bajo la suposición de 
+que en cada fuente se genera un sismo con foco localizado en el punto más próximo entre la 
+fuente y el sitio y con magnitud máxima, es decir, bajo la condición más crítica para el proyecto. Se 
+requiere por lo tanto identificar y caracterizar la s fuentes sísmicas que rodean el sitio y conocer la 
+dependencia entre magnitud del sismo, distancia foco  – sitio e intensidad del movimiento (leyes de 
+atenuación). 
+ 
+ 
+3.1.2 Ev aluación probabilística 
+ 
+Los análisis probabilísticos de amenaza sísmica  o PSHA (Probabilistic Seismic Hazard Analyces) 
+se basan en la integración de tres funciones de probabilidad: 
+ 
+- La probabilidad de que un sismo de una magnitud particular ocurra sobre una fuente 
+determinada durante un intervalo de tiempo especificado 
+- La probabilidad de que la ruptura asociada con la  fuente y el evento sísmico ocurran a una 
+distancia especificada del sitio 
+- La probabilidad de que el movimiento del terreno debido al sismo de la magnitud particular 
+considerada y a la distancia especificada excedan un nivel especificado en el sitio 
+Mediante la combinación de estas tres funciones de probabilidad para cada fuente y sumando las 
+contribuciones de todas las fuentes, se puede ca lcular la probabilidad anual de excedencia para un 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1195
+16,,"especificado nivel de movimiento del terreno en el sitio. Las principales ventajas del enfoque 
+probabilístico sobre el determinístico, son la consideración de la vida útil y la posibilidad de 
+seleccionar un nivel de riesgo aceptable para el proyecto. Otras ventajas son: 
+ 
+- La inclusión de las contribuciones de todos los sismos significativos, desde la magnitud 
+más baja de interés hasta la magnitud máxima de cada fuente 
+- La inclusión de las contribuciones des de todas las fuentes y distancias 
+- La selección de parámetros sísmicos que co rrespondan a niveles aceptables de riesgo 
+- Evita ser exageradamente conservativo 
+ 
+Usualmente, la metodología probabilística está basada en el denominado modelo de generación 
+de sismos de línea - fuente, el cual supone que los si smos se originan en líneas tectónicas (fallas).  
+Dado que una falla geológica en realidad es un plano que se prolonga en profundidad dentro de la 
+corteza terrestre, es más apropiado hablar de modelo de plano - fuente que de modelo de línea -
+ fuente. 
+ 
+ 
+3.1.3 Modelo de línea - fuente 
+ 
+El modelo de línea - fuente se basa en las siguientes suposiciones: 
+ 
+• Distribuciones de probabilidad  
+ 
+Se supone que las magnitudes de los sismos siguen una distribución exponencial, lo cual es 
+consecuencia de asumir que las magnitudes cu mplen la ley de recurrencia de Richter: 
+ 
+Log N (M) = a – bM, 
+ 
+donde N (M) es el número de ocurrencias con magnitud M o mayor en la fuente y a, b son 
+constantes. 
+ 
+Además, se asume que los sismos originados en una fuente sísmica a lo largo del tiempo, siguen 
+una distribución de probabilidad de Poisson, con una ta sa de ocurrencia igual al promedio anual de 
+sismos atribuidos a la fuente. 
+ 
+El modelo de distribución exponencial ofrece un buen ajuste para la sismicidad de una región 
+analizada de manera global, pero no para la sismicidad originada en fallas geológicas específicas, 
+tal como anota Yeats et al (1997) al respecto del comportamiento sísmico de la porción central de 
+la falla San Andrés en California, para la cual las relaciones de recurrencia basadas en la Ley de 
+Richter, conducen a valores de magnitud máxima y períodos de retorno contrarios a la evidencia 
+sísmica histórica. 
+ 
+Para contrarrestar el inconveniente anotado en c uanto a la recurrencia de grandes sismos se ha 
+postulado un modelo de distribución de magnitudes  basado en el “terremoto característico” 
+(Schwartz, Coppersmith, 1984), según el cual la s fallas tienden a producir sismos máximos de un 
+tamaño específico característico de una falla o segmento de falla en particular, pero no producen 
+sismos pequeños sistemáticamente de la manera s ugerida por las curvas de recurrencia basadas 
+en la Ley de Richter. 
+ 
+Aunque el concepto del terremoto característico está en desarrollo, la evidencia indica que este 
+modelo es más representativo de la sismicidad de una falla individual que el basado en el modelo 
+exponencial, además la distribución de magnitudes basada en el terremoto característico tiene en 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1281
+17,,"cuenta las tasas de actividad de las fallas individual es, lo cual permite representar con mayor 
+exactitud el comportami ento de una fuente sísmica. 
+ 
+ 
+• Propagación de la energía sísmica desde una fuente sísmica 
+ 
+La propagación de la energía sísmica desde cada fuente hacia su vecindad, depende de la 
+magnitud del sismo y de la distancia entre el siti o de interés (en el cual se quieren conocer los 
+efectos o severidad del terremoto) y la fuente sísmica. 
+ 
+Para describir la dependencia directamente propor cional entre la intensidad del movimiento 
+(aceleración del terreno) y la magnitud y distancia  focal del sismo, se utilizan las ecuaciones de 
+atenuación, que como ya se dijo, son relaci ones empíricas que describen la relación entre 
+intensidad, magnitud del sismo y distancia. 
+ 
+Al producirse un sismo en una falla geológica, se “activa” un segmento de la falla, cuya longitud 
+está en proporción directa con la magnitud del terremo to.  Esto implica que el efecto del sismo será 
+en general más severo para los sitios localizados en proximidad de la falla que para otros sitios con 
+distancias epicentrales cortas pero distantes de la fa lla que originó el terremoto, tal como se ilustra 
+en la Figura 3.1, en la cual se muestra que el si tio 1 (situado en proximidad de la falla - fuente del 
+sismo, aunque más distante del epi centro) experimentará efectos mayores que el sitio 2 (más 
+distante de la falla). 
+ 
+En síntesis, el efecto de un sismo sobre un sitio está “controlado” por la distancia a la falla - fuente 
+del sismo y no por la distancia al hipocentro del terremoto (como se suponía en los modelos de 
+punto - fuente o de Cornell). 
+ 
+La longitud del segmento de falla “activado” dur ante un sismo, denominado l ongitud de ruptura, ha 
+sido correlacionada por diferentes autores con la magnitud del terremoto (Slemmonds, 1977; 
+Wells-Coppersmith, 1994). 
+ 
+Más recientemente, se ha postulado la llamada t eoría del campo cercano, según la cual en la 
+vecindad inmediata del foco de un sismo, la m agnitud del movimiento es mucho mayor que la 
+prevista por las ecuaciones de atenuación “tradici onales”.  Esto obliga a considerar de una manera 
+particular aquellos sitios localizados sobre una fuente sísmica. 
+ 
+ 
+3.2 CATÁLOGO SÍSMICO 
+ 
+Siguiendo los criterios planteados en el estudio de amenaza sísmica, realizado por Ingetec (1998) 
+durante la etapa de complementación y actualizaci ón de factibilidad técnica, se escogió como zona 
+de influencia la incluida dentro de un círculo de 200 km de radio con centro en el sitio de presa del 
+proyecto.  Sin embargo, para simplificar la labor de selección de sismos a partir del catálogo 
+general de Colombia, no se delimitó el área con el mencionado círculo sino con un cuadrado de 
+400 km de lado que incluyera el círculo de 200 km de radio.  Esto implica la inclusión de algunos 
+kilómetros extras en las esquinas del cuadrado, pero favoreciendo de todos modos la confiabilidad 
+del estudio.  En definitiva se tomó como área de influencia la comprendida dentro del cuadrángulo 
+delimitado por las coordenadas: (675 000E, 1 460 000N), (1 085 000E, 1 460 000N), (1 085 000E, 
+1 050 000N) y (675 000E, 1 050 000N). 
+ 
+Como fuente para la recopilación de la informac ión sísmica para el área de influencia delimitada, 
+se dispuso del catálogo sísmico de Ingeominas que contiene datos sobre todos los temblores 
+ocurridos en el país y en su vecindad desde el año 1759. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1429
+18,,"Este catálogo contiene datos hasta septiemb re de 1996 y fue el utilizado para el estudio de 
+amenaza sísmica, adelantado por Ingetec durante la  etapa de actualización de factibilidad técnica 
+del proyecto. 
+ 
+Una de las razones para revisar el estudio sismol ógico de factibilidad del proyecto, fue incorporar 
+en la evaluación de amenaza sísmica, los sismos ocurridos con posterioridad a septiembre 8 de 
+1996, fecha hasta la cual se había incluido in formación en el trabajo mencionado.  Con este 
+propósito, se indagó en Ingeominas acerca de la disponibilidad de datos sísmicos lo más 
+actualizados posibles, para la región, adquiriéndose finalmente el Catálogo de la Red Sismológica 
+Nacional de Colombia (RSNC), en formato digital (Véase Anexo 1).  
+ 
+El citado catálogo contiene la información de los si smos ocurridos en el territorio nacional y en su 
+vecindad, y registrados por la red, desde el  01 de junio de 1993 (fecha en la cual comenzó a 
+operar la RSNC) hasta el 27 de mayo de 2002. 
+ 
+Inicialmente se extractaron del catálogo de la  RSNC los sismos con epicentro dentro del 
+cuadrángulo definido como área de influencia del  proyecto, conformando de esta manera un 
+archivo digital de 526 eventos. 
+ 
+Se procedió entonces a la evaluación de la info rmación contenida en el archivo digital y a su 
+comparación con el catálogo del estudio de factibilidad. 
+ 
+Ya que se tenía un período de cubrimiento en el tiempo, común en los dos catálogos (junio 01 de 
+1993 a septiembre 8 de 1996), se consideró import ante verificar si los datos para ese período 
+coincidían en los dos catálogos. 
+ 
+La conclusión inmediata y más evidente, fue que el nuevo catálogo incluía muchos más eventos 
+que el catálogo antiguo, para el período comparado, más aún, sólo para el período en mención, el 
+nuevo catálogo equivalía en tamaño casi al 90% del tamaño del catálogo total antiguo. 
+ 
+Al tomar como base de comparación los eventos de mayor magnitud, se observó que varios de los 
+contenidos en el catálogo obtenido a partir del de la RSNC, no aparecían en el catálogo antiguo.  
+Se notó además, que en los casos en los cuales había coincidencia, la magnitud en el nuevo 
+catálogo era algo mayor que la del catálogo de factibilidad. 
+ 
+Con base en lo observado como resultado de la comparación de los catálogos, se decidió que, 
+además de completar el catálogo antiguo con la información posterior a septiembre 08 de 1996, 
+disponible en el catálogo nuevo, se reemplazaría la información del catálogo antiguo, del período 
+junio 01 de 1993 a septiembre 08 de 1996, por la del nuevo catálogo. 
+ 
+Es importante aclarar que la sustitución de lo s datos para el período mencionado, no se hizo 
+solamente porque el nuevo catálogo contuviera má s datos, pues ésto no implica que éste fuera de 
+mejor calidad, sino procurando que el catálogo del proyecto fuera más homogéneo en el tiempo y 
+considerando que la información registrada por la RSNC es de muy buena confiabilidad. 
+ 
+Luego de ensamblar la información sismológica se obtuvo un catálogo de 1826 eventos para el 
+proyecto, el cual cubre el período enero de 1759 a mayo 23 de 2002 y cuyo listado se presenta en 
+el Anexo 2. 
+ 
+Para cada uno de los sismos del catálogo se incluye la siguiente información: 
+ 
+- Número consecutivo del evento dentro del catálogo. 
+- Fecha de ocurrencia del sismo (Año, Mes, Día) 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1428
+19,,"- Coordenadas geográficas epicentrales del sismo (latitud, longitud). 
+- Coordenadas planas epicentrales del sismo (X, Y) 
+- Profundidad del foco en kilómetros. 
+- Magnitud Ms del sismo. 
+- Distancia hipocentral del sismo (con res pecto al sitio de presa del proyecto). 
+ 
+En la Figura 3.2 se muestra la localización de los epicentros en la zona de influencia del proyecto.  
+Para tener una noción de la distribución de la s profundidades focales se adoptó una convención 
+para los hipocentros, tal como se indica en el gráfico. 
+ 
+ 
+3.3 FUENTES SÍSMICAS 
+ 
+Los estudios precedentes del pr oyecto Porce III y la bibliogr afía consultada para la etapa de 
+diseño, indican que las fuentes sísmic as importantes son las siguientes: 
+ 
+• Zona de subducción Nazca - Sudamérica, que abarca la zona de interacción entre estas dos 
+placas, cuyo límite occidental es la llamada fosa oceánica, localizada aproximadamente 
+320 km al occidente del sitio del proyecto Porce III, en el Océano Pacífico, y que se extiende 
+bajo el continente suramericano, pasando bajo el sitio de presa presumiblemente a una 
+profundidad cercana a 90 km.  
+ 
+Esta zona se denomina con mayor propiedad, zona de Benioff.  Al mecanismo de 
+subducción está asociada la mayoría de la actividad sísmica que afecta a Sudamérica. 
+ 
+• Zona de Falla Romeral.  Este conjunto de fallas se extiende al occidente del proyecto y su 
+trazo más cercano está localizado a unos 60 km del sitio de presa.  Su actividad tectónica es 
+reconocida en muchos estudios.  Esta fuent e agrupa numerosas fallas con nombres locales 
+pero por brevedad, se denominará en adelante Falla de Romeral. 
+ 
+• Falla Espíritu Santo.  Esta falla se encuent ra ubicada a una distancia de 50 km del proyecto, 
+en dirección noroeste. Por su reconocida actividad tectónica se incluirá en el estudio de 
+amenaza como fuente sísmica potencial. 
+ 
+• Falla Palestina.  Su trazo más cercano pasa a una distancia de 60 km al oriente del sitio de 
+presa del proyecto.  Existe polémica acerca de su actividad tectónica pero por ser una falla 
+regional, que afecta una amplia zona del norte de Colombia, se incluye como fuente 
+potencial en la evaluación de amenaza sísmica. 
+ 
+• Falla Salinas.  Esta falla regional tiene una dirección predominante sureste - noreste y pasa 
+a una distancia de 160 km al sureste del proyec to.  A pesar de estar distante del sitio de 
+Porce III, se considera como una fuente sí smica potencial, teniendo en cuenta la gran 
+concentración de epicentros que se presenta al sureste del proyecto en proximidad de esta 
+falla. 
+ 
+La localización de estas fuentes sísmic as se muestra en la Figura 3.2. 
+ 
+• Fallas locales.  En el informe de evaluac ión de amenaza sísmica de la etapa de diseño del 
+proyecto Nechí (Integral-Sedic, 1998), se menc iona la presencia de varias falla locales 
+como: Tenche, Nechí, Santa Gertrudis y Pasto.   Se trata de fallas cortas, algunas de ellas 
+con indicios de actividad, pero la de Santa Ge rtrudis merece atención especial ya que su 
+trazo pas aría c erca del s itio de pres a del proyec to Porc e III.  En atenc ión a ésto se llevó a 
+cabo una revisión bibliográfica y de campo para verificar si la falla presentaba actividad 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1376
+20,,"reciente, caso en el cual debería incluirs e en la evaluación de amenaza sísmica como 
+sismofuente. 
+ 
+• Falla Santa Gertrudis.  Es una estructura  local que en su trazo norte afecta rocas 
+paleozoicas y cretáceas, en especial a la cuar zodiorita del stock de La Plancha, en este 
+sector la falla tiene dirección norte - sur, su plano es vertical y su bloque oriental 
+aparentemente descendió con respecto al bloque occidental. 
+ 
+Esta falla fue reconocida por Ingeominas (1970)  a unos 35 km al norte del sitio de presa de 
+Porce III, en este sector la falla tiene unos 18 km de longitud, con dirección norte - sur, cruza 
+el río Nechí y afecta esquistos del Paleozoico.  Al sur del cruce con este río, a unos 20 km al 
+norte de Anorí, la falla toma una dirección hacia  el oeste, controlando parte del cauce de la 
+quebrada Trinidad, afluente del río Nechí.  En este sector la falla se prolonga a lo largo de 
+unos 15 km, poniendo en contacto esquistos del  Paleozoico con rocas del stock de La 
+Plancha; más al oeste de la falla afecta un complejo de rocas sedimentarias cretáceas de la 
+formación La Soledad y rocas ígneas de la misma edad, poniéndolas en contacto fallado con 
+el stock de La Plancha de edad cretáceo. 
+ 
+En esta zona afectada del cretáceo, se despr enden varias fallas con dirección hacia el sur, 
+una de estas es la falla de San Lorenzo que se prolonga hacia el sur aproximadamente 
+25 km atravesando la cola del embalse Porce III, en el sector del Plan de Pérez.  Esta falla 
+pasa a unos 6,0 km al oeste del sitio de presa de Porce III. 
+ 
+Ingetec (1983) en los estudios para el proyec to Nechí, considera la falla de San Lorenzo 
+como una falla satélite de la falla Santa Gertrudis. 
+ 
+En los reconocimientos geológicos realizados para el proyecto Porce III, a lo largo de la vía a 
+Anorí, no se observaron zonas de fallamiento regional, ni tampoco se identificaron depósitos 
+cuaternarios afectados por actividad de la falla San Lorenzo en el sector del embalse de 
+Porce III. 
+ 
+Teniendo en cuenta los estudios realizados por Ingeominas (1970) e Ingetec S.A. (1983), la 
+falla Santa Gertrudis no se prolonga hacia el sur del municipio de Anorí, a lo largo de los 
+esquistos del Paleozoico.  Sin embargo la falla  satélite de San Lorenzo, se prolonga hacia el 
+sur, pasando a unos 6,0 km al oeste del sitio de presa Porce III.  Esta falla en su sector 
+norte, afecta rocas sedimentarias de la Formación La Soledad.  En el área del embalse de 
+Porce III, pone en contacto rocas del Cretác eo del Batolito Antioqueño con esquistos del 
+Paleozoico. 
+ 
+Ni la falla Santa Gertrudis ni sus fallas sa télites presentan evidencias de actividad tectónica 
+reciente, por lo cual no se incl uyeron como fuentes sismogénicas. 
+ 
+3.3.1 Parámetros geométricos y  sismológicos de las fuentes sísmicas 
+ 
+Para proceder a la aplicación del modelo probabilí stico se requiere caracterizar geométrica y 
+sismológicamente cada una de las fuentes sísmicas que afectan el proyecto. 
+ 
+La caracterización geométrica de una fuente sísmica consiste en definir su forma y tamaño.  En el 
+caso de las fallas geológicas, la caracterización geométrica consiste en definir la longitud de la 
+falla, el buzamiento y profundidad del plano de falla y la  localización de la falla con respecto al sitio 
+en estudio. 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1390
+21,,"La caracterización sismológica consiste en definir: la magnitud máxima del sismo que puede 
+generar la fuente sísmica y la distribución frecuencial de las magnitudes de los sismos generados 
+en la fuente. 
+ 
+Una vez definidas las fuentes sísmicas a incluir en el análisis de amenaza sísmica, se debe 
+proceder al cálculo de sus parámetros sismológicos,  ésto requiere disponer del catálogo de sismos 
+originados en cada fuente. 
+ 
+Para la zona de Benioff existen algunos list ados de sismos, pero para las demás fuentes 
+seleccionadas en este estudio no existen catálogos. 
+ 
+La conformación del catálogo de sismos originados en una falla específica, implica fijar los criterios 
+bajo los cuales se decidirá si un sismo en particular se asigna o no a una falla.  Estos criterios 
+pueden ser varios, pero el más práctico es el de pr oximidad entre el foco sísmico y el plano de la 
+falla. 
+ 
+En sentido estricto, debería atribuirse un sismo a una falla geológica sólo si el foco sísmico 
+respectivo está localizado sobre el plano de la falla.  Sin embargo, hay dos limitaciones que deben 
+tenerse en cuenta antes de aplicar el criterio de esta  manera.  En primer lugar el trazo de una falla 
+en el terreno no es una línea, sino más bien una franja, que puede tener centenares de metros de 
+ancho, inclusive a veces el trazo es incierto y por  ello la línea que representa la falla en un plano es 
+aproximada.  En segundo lugar, la localización epicentral de cada sismo involucra un margen de 
+error que puede llegar a ser de decenas de kilómetros, por  lo cual sería más preciso representar el 
+epicentro como un círculo de varios kilómetros de radio que como un punto. 
+ 
+En consideración a estos inconvenientes, aunque en FRISK las fallas se modelan como trazos 
+rectilíneos, para el proceso de asignación de sismos  a fallas, cada falla se representó como un 
+corredor espacial delimitado por dos planos par alelos equidistantes del plano de la falla. 
+ 
+El proceso de asignación es realizado por el  programa PAFSIS (Ingetec S.A., 1996).  Este 
+programa recibe como datos de entrada las c oordenadas de los segmentos rectilíneos que definen 
+el trazo de cada falla en planta, el ángulo de buz amiento de cada segmento, el ancho del corredor 
+de asignación y el catálogo sísmico que contiene la  localización de los sismos.   El programa 
+selecciona mediante criterios de proximidad de los sismos pertenecientes a cada falla. 
+ 
+Los parámetros utilizados en el proceso de as ignación, se indican en el Cuadro 3.1. 
+ 
+Cuadro 3.1   Parámetros de asignación de sismos 
+ 
+Fuente Profundidad 
+de asignación (km) Ángulo de 
+buzamiento Ancho de corredor de 
+asignación (km) 
+Falla Romeral 100 60°E 60 
+Falla Espíritu Santo 100 70°W 60 
+Falla Palestina 100 90° 60 
+Falla Salinas 100 90° 60 
+Zona de Benioff Regional 86 15° 60 
+ 
+Para la selección de los ángulos de buzamiento de las fallas se utilizó la información de la 
+bibliografía (Ingeominas, 1999). En el caso de la falla Salinas, aunque la bibliografía indica un 
+ángulo de buzamiento hacia el este, se tomó un ángulo de 90° ya que esta condición es más 
+desfavorable para el proyecto, pues estando plano de la falla más cerca del sitio de presa, las 
+aceleraciones causadas por los sismos originados en esta fuente son mayores. 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1409
+22,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.. 16  La profundidad de asignación no debe interpretarse como la profundidad de cada falla, sino que  debe entenderse como una distancia que tiene en cuenta el error en la localización vertical de los  focos sísmicos (cuyo margen de incertidumbre es grande en el caso de Colombia).. Para la selección de los parámetros de la zona de Benioff se analizó la distribución en profundidad  de los sismos de la zona de subducción.. Teniendo en cuenta que la zona de subducción se  extiende unos 320 km al occidente del sitio del proy ecto, fuera de la zona de influencia definida en  el numeral 3.2, se incluyeron para este análisis, adicionalmente, los sismos con epicentro entre los  meridianos 77°W y 79°W.. Con estos eventos y los del catálogo del proyecto se elaboró la  sección 1 mostrada en la Figura 3.3.. La sección indica que los focos sísmicos localizados al occidente del proyecto y bajo el sitio mismo  de Porce III, están concentrados en los primeros  100 km de profundidad.. Este hecho tiene dos  posibles interpretaciones.. La primera es que hay actividad tectónica de las fallas geológicas  existentes en la zona, originando los sismos s uperficiales.. La segunda es que la subducción en la  latitud del proyecto tiene un ángulo bajo, del orden de 15°, siendo en este caso, el mecanismo  interplaca Nazca-Suramérica, el origen de la actividad sísmica superficial.. Esta segunda  interpretación coincide con los resultados obtenidos  por Integral (1998) en la actualización del  estudio sismológico de la presa Santa Rita (loc alizada 70 km al sur del proyecto Porce III y en  situación similar con respecto a las fallas regional es Romeral, Palestina y Espíritu Santo), según  los cuales la subducción aporta más del 90% de la aceleración máxima esperada en el sitio.. En  dicho estudio la subducción se analizó subdivi diéndola en 15 fuentes individuales a cada una de  las cuales le fue asignada una localización caract erística.. La subfuente que resultó tener mayor  contribución en la amenaza sísmica de la presa de Santa Rita fue la situada a una distancia de  68 km del sitio, lo cual implica un ángulo de subducción para ese sector, inferior a 15°.. Tratando siempre de seleccionar la condición más crítica, desde el punto de vista del proyecto  Porce III, se analizó la sismicidad bajo los siguientes criterios:    • Se supuso un ángulo de inclinación de 15° para la  superficie de Benioff, lo cual equivale a  una distancia al sitio del proyecto de 83 km.. • Se supuso que la sismicidad superficial está asoc iada con las fallas Romeral, Espíritu Santo,  Palestina o Salinas, con base en el criterio  de proximidad y en los espacios de asignación  mencionados en el Cuadro 3.1.. Se dio prelaci ón a esta asignación ya que como se indica  en el numeral 3.3, varias de las fallas est án localizadas a distancias del sitio menores que  los 83 km que separan a éste de la superficie de Benioff.. • Los focos sísmicos que por su localización no resultaron asignados a ninguna de las cuatro  fallas, se asociaron con la zona de subducción, la cual para fines del estudio se subdividió  en dos regiones.. La primera, correspondiente a la zona alrededor de la cuña de 15° de  inclinación y que se denominó zona de Benioff regional, delimitada como se indica en el  Cuadro 3.1.. La segunda, con inclinación variable, denominada subducción local, se  considera el origen de la sismicidad no asociada a fallas ni a la subducción regional y se  analizó como se explica más adelante.. En el Cuadro 3.2 se presentan los datos de las fuentes tipo falla consideradas en el estudio.. Mediante el programa PAFSIS se obtuvo la lista de sismos correspondientes a cada falla y a la  zona de Benioff regional y un listado adicional de sismos no asignados.. Los eventos no asignados  son aquellos que por su localización tanto en planta como en profundidad, no quedan incluidos  dentro de ninguno de los corredores de falla.. Para es tos sismos se hizo un estudio de distribución  de focos en planta y en profundidad y se determinar on zonas de concentración de focos sísmicos  INGETEC S.A. – KLO HN CRIPPEN CO ..",1417
+23,,"asignándole a cada uno de estos grupos unas coordenadas  de localización características.  Cada 
+grupo se representó como una fuente sísmic a, suponiendo una distribución uniforme de la 
+sismicidad del grupo alrededor de su localización característica. 
+ 
+ 
+Cuadro 3.2 Datos de las fuentes sísmicas tipo falla. 
+ 
+Fuente Distancia 
+al sitio 
+(km) Grado de 
+activ idad Desplaz. 
+mm/año Angulo de 
+buzamiento Profundidad (km) 
+Falla Romeral 60 Alto 1.0 60°E 27 
+Falla Espíritu Santo 50 Moderado 0.4 70°W 30 
+Falla Palestina 60 Bajo 0.1 90° 30 
+Falla Salinas 160 Bajo 0.1 90° 30 
+Zona de Benioff Regional 83 Muy Alto 80.0 15° 86 
+ 
+ 
+Mediante el programa PAFSIS se obtuvo la lista de sismos correspondientes a cada falla y a la 
+zona de Benioff regional y un listado adicional de sismos no asignados.  Los eventos no asignados 
+son aquellos que por su localización tanto en planta como en profundidad, no quedan incluidos 
+dentro de ninguno de los corredores de falla.  Para es tos sismos se hizo un estudio de distribución 
+de focos en planta y en profundidad y se determinar on zonas de concentración de focos sísmicos 
+asignándole a cada uno de estos grupos unas coordenadas  de localización características.  Cada 
+grupo se representó como una fuente sísmic a, suponiendo una distribución uniforme de la 
+sismicidad del grupo alrededor de su localización característica. 
+ 
+Esta idealización corresponde a lo que en el modelo de análisis de FRISK se denomina una fuente 
+tipo área.  En el Cuadro 3.3 se indican las localiz aciones características de estas fuentes sísmicas. 
+ 
+A partir del catálogo sísmico de cada fuente se pr ocede al cálculo de los respectivos parámetros 
+sismológicos (frecuenc ia sísmica, pendiente β).  Este trabajo es realizado mediante el programa 
+PARMSIS (Ingetec S.A., 1996).  Es importante anot ar que para este cálculo sólo se tomaron en 
+consideración los datos instrumentales  (sismos ocurridos a partir del año 1923). 
+ 
+En las Figuras 3.4 a 3.14 se muestran las lí neas de recurrencia de magnitudes obtenidas para 
+cada una de las fuentes sísmicas. 
+ 
+En el Cuadro 3.4 se resumen los parámetros si smológicos de las fuentes sísmicas consideradas 
+para el análisis de amenaza. 
+ 
+Cuadro 3.3: Localización de fuentes sísmicas de tipo área. 
+ 
+Fuente Distancia al sitio 
+(km) Profundidad  
+(km) 
+FA-1 100 120 
+FA-2 180 190 
+FA-3 90 170 
+FA-4 60 50 
+FA-5 130 40 
+FA-6 150 30 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1121
+24,,"3.3.2 Ecuaciones de atenuación 
+ 
+Las dificultades para utilizar alguna de las muchas ecuaciones de atenuación disponibles, ya 
+fueron expuestas en el Informe de Actualizaci ón de Factibilidad del proyecto presentado en 1998 
+por el consorcio Ingetec S.A. - Hidramsa - CCC. 
+ 
+Teniendo en cuenta los resultados obtenidos en el estudio citado, se decidió utilizar las ecuaciones 
+de atenuación de Donovan y McGuirre.  También se aplicó la ecuación de Boore (1997), ya que 
+ésta fue utilizada en el estudio sismológico del proy ecto Nechí (1998), en el de la presa Santa Rita 
+(1998) y en la microzonificación sísmica de Medellín (1999).  Para la zona de subducción se 
+utilizaron las relaciones de atenuación de Youngs (1997). 
+ 
+Cuando se estaba a punto de finalizar el presente trabajo, se tuvo acceso al informe de 
+“Estimación de la Amenaza Sísmica de Medellín” (2000).  Este estudio fue realizado por la 
+Universidad Nacional Autónoma de México (UNAM)  para la Asociación Colombiana de Ingeniería 
+Sísmica (AIS) y propone dos conjuntos de curvas  de atenuación obtenidas a partir de datos de la 
+Red Sismológica Nacional de Colombia: Un primer conjunto de curvas aplicables a zonas de falla y 
+un segundo conjunto, aplicable a zonas de subducción.   
+ 
+Se decidió entonces hacer análisis de amenaza sísmica adicionales utilizando estas relaciones de 
+atenuación. 
+ 
+Es importante comentar que la teoría del cam po cercano no tiene implicaciones en el caso del 
+proyecto Porce III, dado que las obras más import antes no estarán localizadas sobre ninguna falla 
+activa o potencialmente activa. 
+ 
+ 
+3.3.3 Longitud de ruptura 
+ 
+El modelo de línea - fuente requiere una expresión par a calcular la longitud del segmento de falla 
+que se activa o “rompe” cuando ocurre un sismo sobre una falla.  Con base en el estudio de 
+muchos terremotos pasados se ha observado que existe una relación directa entre el tamaño de 
+un sismo y la longitud de la ruptura de falla  correspondiente.  Wells y Coppersmith (1994) 
+realizaron regresiones utilizando los datos de 216 terre motos históricos y obtuvieron la expresión: 
+ 
+Log L R = -3,22 + 0,69 M 
+ 
+en la cual L R es la longitud de ruptura de falla en kilómetros y M es la magnitud de momento del 
+sismo.  
+ 
+Para aplicar la ecuación anterior se requiere ex presar la magnitud en la escala de momento.  
+Aunque existen relaciones para calcular con exac titud la magnitud de momento correspondiente a 
+un valor dado de magnitud en la escala Ms, en el presente estudio no se consideró necesario 
+utilizarlas teniendo en cuenta las observaciones de Wells y Coppersmith (1994).  En efecto, estos 
+autores afirman que no encontraron diferencia s apreciables entre Ms y M en el rango de 
+magnitudes comprendido entre 5,7 y 8,0 que es el rango de magnitudes para los sismos con 
+importancia en las obras de ingeniería. 
+ 
+En conclusión, para relacionar la longitud de rupt ura de falla con la magnitud Ms se utilizó la 
+expresión: 
+Log L R = -3,22 + 0,69 Ms 
+ 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1273
+25,,"3.3.4 Magnitudes máximas 
+ 
+Antes de proceder a estimar las magnitudes de lo s eventos máximos originados en las fuentes 
+sísmicas del proyecto, es neces ario precisar el concepto de te rremoto máximo.  El terremoto 
+máximo se define como el sismo de mayor m agnitud que puede originarse en una fuente sísmica, 
+bajo el comportamiento tectónico actual o previsto  para la región.  Esta definición implica que el 
+terremoto máximo no tiene asociado un período de retorno, o dicho de otro modo, su probabilidad 
+de excedencia es nula.  La definición anterior co incide con el concepto de “terremoto máximo 
+creíble” o MCE utilizado por la Comisión Inter nacional de Grandes Presas (ICOLD) y utilizado más 
+recientemente por el United States Co mmitee On Large Dams (USCOLD, 1999). 
+ 
+Yeats et al. (1997) propone tres métodos para det erminar la magnitud máxima de los terremotos 
+que ocurren en una fuente sísmica. 
+ 
+El primer método se basa en el registro histór ico e instrumental de terremotos ocurridos en la 
+región bajo consideración o en otras r egiones con sismotectónica similar. 
+ 
+El segundo método se basa en los parámetros físic os de la fuente sismogénica, particularmente en 
+la longitud de la falla. 
+ 
+El tercer método consiste en utilizar la evidenc ia paleosísmica para determinar el tamaño de los 
+desplazamientos de eventos sísm icos prehistóricos correlacionándol os con la magnitud de eventos 
+recientes. 
+ 
+En regiones con un registro histórico de terremoto s extenso, tales como algunas partes de China, 
+el registro histórico es invaluable para la es timación de magnitudes máximas.  El hecho de que se 
+tenga evidencia de la ocurrencia de terremotos históricos con magnitud 8 sobre una falla es de 
+gran importancia en la estimación de magnitudes máximas sobre ésta y otros segmentos de la 
+falla.  Aunque ninguno de estos eventos haya ocurrido durante los pasados 200 años, es claro que 
+deben ser considerados en la asignación de terremotos máximos para la región afectada por la 
+falla, en el futuro.  Estos eventos también propor cionan valores de referencia para las evaluaciones 
+de sismicidad de áreas tectónicamente similares,  pero con registro histórico más corto. 
+ 
+En algunos casos, para evaluar la sismicidad de un área se toma en consideración la sismicidad 
+de áreas adyacentes localizadas dentro de lo que se denomina la misma provincia tectónica, en 
+este caso las áreas con características sísmicas  y tectónicas similares son tratadas como unidades 
+en los análisis de amenaza sísmica. 
+ 
+Una práctica común para obtener un estimativo de magnitud máxima para una región con un 
+registro sísmico corto, ha sido la de adicionar media unidad de magnitud al mayor sismo conocido 
+ocurrido en la región.  Esta es una aproxim ación generalmente conservativa, aunque sin una base 
+lógica real. 
+ 
+La longitud de falla es probablemente el parámetro  más utilizado para la estimación de la magnitud 
+máxima de terremotos.  Si existe evidencia geológi ca suficiente para estimar la longitud de ruptura 
+de una falla que probablemente originará un sismo, es posible comparar la longitud de ruptura 
+prevista con la observada durante terremotos histór icos con el fin de estimar el nivel de magnitud 
+asociado.  Varios autores han obtenido relaciones  mediante regresión utilizando datos de sismos 
+ocurridos en diferentes lugares del  mundo (Wells y Coppersmith, 1994).   
+ 
+No siempre es fácil delimitar sobre el terreno la longitud de ruptura asociada con un terremoto 
+luego de ocurrido éste, pero es todavía más difícil estimar por anticipado la longitud de ruptura que 
+estará asociada con el sismo máximo que se cr ee ocurrirá sobre una falla dada (Yeats et al, 1997). 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1509
+26,,"Un método adicional para establecer la magnit ud máxima es la extrapolación de la curva de 
+recurrencia de magnitudes de Richter.  Sin embar go, como anota Yeats (1997), si la muestra de 
+datos no incluye al menos dos eventos de gran magnitud, no se puede suponer que ésta sea 
+estadísticamente significativa para un período suficientemente extenso. 
+ 
+Pero, según el mismo autor, es importante notar que el sólo hecho de tener datos suficientes para 
+trazar una línea recta entre ellos, no garantiza que la línea refleje precisamente la tasa de 
+ocurrencia de los eventos máximos. 
+ 
+Por otra parte, el terremoto máximo estim ado con base en una curva de recurrencia, tendría 
+asociado un período de retorno, lo cual contr adice la definición del terremoto máximo. 
+ 
+Una aproximación diferente a la estimación del ev ento máximo es la propuesta por Lomnitz (1979).  
+el método propuesto por este autor es netamente empírico y se basa en la línea de recurrencia de 
+magnitudes.  Consiste en suponer un valor de magni tud máxima y representar gráficamente, en 
+escala logarítmica, los pares de eventos con m agnitud mayor o igual a M, denominado N(M), y el 
+valor de Mmáx-M. Diferentes valores de Mma x son utilizados, y el valor determinado como 
+magnitud máxima es el correspondiente a la línea que muestre el tramo recto más extenso. En la 
+Figura 3.15 se muestra la aplicación del método para la falla Romeral. Se observa que la línea 
+construida con Mmax = 7,0 presenta una apariencia  más rectilínea, en su porción derecha que las 
+correspondientes a 5,5 y 6,0 y por lo tanto el valo r de la magnitud máxima se tomaría como 7,0.  
+Sin embargo, alguien podría anotar que la línea corre spondiente a 7,5 parece aún más recta, por lo 
+cual debería tomarse 7,5 como magnitud máxima  en vez de 7,0, o construir gráficas para 
+magnitudes aún mayores ya que es previsible que sean aún más rectilíneas.  Esto indica que el 
+método tampoco es concluyente y que su aplicaci ón requiere criterio para decidir hasta donde es 
+“razonable” aumentar Mmax. En las Figuras 3.16 a 3.19 se muestran las gráficas para las demás 
+fuentes sísmicas. 
+ 
+Los conceptos antes expuestos se tuvieron en cuenta para la determinación de las magnitudes 
+máximas de las fuentes sísmicas que afectan el proyecto Porce III.   
+ 
+En el Cuadro 3.5 se presentan los valores de magnitud máxima para cada una de las fuentes 
+sísmicas, determinados siguiendo los métodos descritos. 
+ 
+La segunda columna de la tabla indica la longitud estimada de falla.  La tercera columna muestra la 
+longitud de ruptura correspondiente al terremoto máximo, estimada como un porcentaje de la 
+longitud total de la falla, conforme a lo propuesto por Schwartz (1984). 
+ 
+En la cuarta columna se indica la magnitud máxima estimada con base en el registro de sismos y 
+en el comportamiento tectónico de la región.  
+ 
+En la quinta columna se muestra el valor de magnitud máxima deducido con base en la longitud de 
+ruptura estimada para el evento máximo. 
+ 
+Finalmente en la sexta columna se incluye el valor de magnitud máxima obtenido según la 
+metodología de Lomnitz.  Véanse las Figuras 3.15 a 3.19. 
+ 
+En el Cuadro 3.6 se resumen los valores de magnitud máxima asignados a cada una de las once 
+fuentes en el análisis de amenaza sísmica. 
+ 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1424
+27,,"3.4 CÁLCULO DE AMENAZA SÍSMICA 
+ 
+3.4.1 Método determinístico 
+ 
+Los posibles escenarios de amenaza sísmica para el  proyecto son once, correspondientes a las 
+diferentes fuentes sísmicas definidas. Cada esc enario está representado por la ocurrencia de un 
+sismo en una fuente, con el foco situado a la mínima distancia del sitio. En el Cuadro 3.7 se 
+muestran los resultados del análisis determi nístico aplicando las ecuaciones de atenuación de 
+McGuire, Donovan, UNAM, Boore y Youngs. El cuadro indica que la máxima aceleración que 
+puede ocurrir en el sitio del proyecto es 0,24g y es causada por un sismo originado en la zona de 
+subducción regional. Este valor corresponde al mo vimiento con consecuencias más severas sobre 
+las obras y representa para el proyecto Porc e III el Controlling Maximum Credible Earthquake 
+(CMCE) definido por USCOLD. 
+ 
+ 
+3.4.2 Método probabilístico 
+ 
+Para calcular la incidencia de cada una de las fuentes  sísmicas en el riesgo del proyecto, se utilizó 
+el programa de computador EZ-FRISK, desarrollado por Risk Engineering (1995). 
+ 
+El programa recibe en un archivo ASCII los siguientes datos: 
+ 
+• Localización del sitio para el cual se evalúa la amenaza sísmica. 
+• Descripción de las fuentes sísmicas ( parámetros geométricos y sismológicos). 
+• Ecuación de atenuación y de longitud de ruptura de falla a aplicar. 
+ 
+Como resultado FRISK arroja, en forma tabular, las probabilidades anuales de excedencia para las 
+diferentes aceleraciones en el sitio. 
+ 
+En la Figura 3.20 se muestran las curvas de recurr encia para la aceleración horizontal en el sitio de 
+presa, obtenidas aplicando las ecuaciones de at enuación de Donovan, McGuirre, Boore-Youngs y 
+las curvas de atenuación de UNAM. 
+ 
+En la Figura 3.21 se muestra la participación o c ontribución de las diferentes fuentes sísmicas en 
+las aceleraciones del sitio del proyecto.  Se obs erva en el gráfico que la fuente con mayor aporte a 
+la amenaza sísmica es la zona de subducción regional. 
+ 
+ 
+3.4.3 Resultados 
+ 
+En las curvas de recurrencia de aceleraciones obt enidas (Figura 3.20), se observa que la ecuación 
+de atenuación de McGuire produce valores de aceleración más altos que los correspondientes a 
+las ecuaciones de atenuación de D onovan, Boore-Youngs y UNAM. 
+ 
+Las aceleraciones para un período de retorno de 1000 años, que es el mínimo recomendado para 
+obras de la importancia de las del proyecto  Porce III, están en el rango de 0,21g a 0,34g, 
+correspondiendo el mínimo a la curva obtenida con base en la ecuación de atenuación de Donovan 
+y el máximo a la curva obtenida con base en la  ecuación de atenuación de McGuire. Las curvas 
+correspondientes a las ecuaciones de Boor e-Youngs y UNAM dan valores intermedios. 
+ 
+Sin embargo, antes de proceder a recomendar un va lor de aceleración para el diseño de las obras 
+del proyecto, se requiere verificar la vali dez de los resultados obtenidos en el análisis 
+probabilístico, comparando las aceleraciones con la s obtenidas mediante el análisis determinístico. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1287
+28,,"Aunque las curvas de probabilidad permiten obtener  valores de aceleración para períodos de 
+retorno de varios miles de años, los resultados del análisis determinístico indican que ninguna de 
+las curvas de recurrencia tiene aplicabilidad para aceleraciones mayores que 0,24g. 
+ 
+De lo anterior se deriva como conclusión que tanto el MCE como el MDE están controlados por la 
+aceleración determinística. No es usual evaluar el MDE mediant e metodologías determinísticas, 
+pero tampoco debe considerarse incorrecto, ya que es una práctica de uso común (e incluso 
+obligatoria) en los proyectos de presas diseñadas  para el territorio Oeste de Estados Unidos. 
+ 
+Al respecto el documento Guías Actualizadas para la Selección de Parámetros Sísmicos para 
+Proyectos de Presas (USCOLD, 1999), anota que esta metodología ha conducido a grados 
+desiguales de conservatismo, dependiendo del siti o de localización de las presas estudiadas. 
+Según el mismo USCOLD, cuando se evalúa o diseña para el MDE, el movimiento del terreno para 
+el cual son diseñadas las presas situadas a lo largo de la falla de San Andrés o de otras grandes 
+fallas activas, resulta ser de apenas 200 o 300 años de período de retorno. En contraposición, las 
+presas situadas en la cercanía de fallas muc ho menos activas o con actividad incierta, pueden 
+tener probabilidades anuales de excedencia de experimentar el MDE inferiores a 10-4 o 10-5 (10000 
+a 100000 años de período de retorno). En el caso del proyecto Porce III la probabilidad anual de 
+excedencia para la aceleración de 0,24g está  entre 0,005 y 0,0005 (200 y 2000 años de período de 
+retorno), dependiendo de la curva de atenuación considerada. 
+ 
+Es importante recalcar que el resultado obtenido para el proyecto Porce III está basado en las dos 
+metodologías (probabilística y determinística) y que el valor obtenido para el MCE mediante la 
+metodología determinística es su ficientemente seguro, ya que está deducido bajo el escenario 
+sísmico más crítico para el sitio, como es el correspondiente a la ocurrencia de un sismo con la 
+magnitud máxima creíble en la fuente sí smica más cercana (la zona de subducción). 
+ 
+Recientemente se han venido utilizando en las ev aluaciones probabilísticas, los denominados 
+árboles lógicos, los cuales son una manera de r epresentar el proceso de decisión secuencial en 
+los análisis complejos de amenaza sísmica, en lo s cuales cada decisión en la secuencia tiene un 
+estimativo de probabilidad de ser correcta. Esta me todología permite involucrar en el análisis de 
+amenaza las incertidumbres asociadas a aspec tos como: tipo de ecuación de atenuación utilizada, 
+magnitud máxima de las fuentes sísmicas y tasa de actividad de las fallas. 
+ 
+Los árboles lógicos requieren el aporte de exper tos para calificar mediante valores de probabilidad 
+adecuados la verosimilitud de ocurrencia de cada event o. Pero, como anota Yeats et al (1997), si 
+los árboles lógicos se utilizan sin criterio y si no hay fundamento para asignar los valores de 
+probabilidad requeridos, no sirven para nada. 
+ 
+En el caso del estudio sismológico de Porce III no se consideró conveniente aplicar la metodología 
+de árboles lógicos, pues el punto de vista del Cons orcio que lleva a cabo el diseño del proyecto y 
+que ha realizado este estudio, es que con base en la  información actualmente disponible para la 
+región, no existe una base cierta que permita asignar probabilidades, como lo requiere esa 
+metodología, ni a las magnitudes máximas de las f uentes sísmicas, ni a la tasa de actividad de las 
+fallas. 
+ 
+De todos modos los resultados del análisis de amenaza se consideran confiables ya que están 
+realizados teniendo en cuenta los siguientes criterios: 
+ 
+• Elegir siempre valores que estén del lado de la seguridad (en el caso de las magnitudes 
+máximas de las fuentes y de las tasas de desplazamiento de las fallas), adoptando de todos 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1566
+29,,"modos límites razonables (obtenidos por ej emplo mediante comparación con regiones 
+sismotectónicamente similares) para no incurrir en sobrediseños. 
+ 
+• Analizar varios casos, para determinar lími tes máximos y mínimos de los resultados, tal 
+como se hizo al elegir varias ecuaciones de atenuación. 
+ 
+• Siempre que fue posible, se tuvo en cuenta la incertidumbre asociada con cada variable en 
+el análisis.  Así se hizo con las diferent es ecuaciones de atenuación y con la ecuación de 
+longitud de ruptura, para las cuales los respectivos autores dan medidas de dispersión que 
+el programa FRISK permite incluir en el cálculo de amenaza sísmica. 
+ 
+3.4.4 Curv a de Amenaza Sísmica 
+ 
+Los siguientes aspectos fueron considerados para la escogencia de una curva única de amenaza:  
+ 
+- La aplicación de varias ecuaciones de atenuaci ón permite determinar límites máximos y 
+mínimos en los resultados del análisis de amenaza sísmica. 
+ 
+- Todas las ecuaciones de atenuación utilizadas en el estudio tienen dispersión, ya que son 
+el resultado de ajustes estadísticos y esta dispersión fue tenida en cuenta en la evaluación 
+de amenaza. 
+ 
+- El uso de árboles probabilísticos para el m anejo de la incertidumbre asociada con las 
+relaciones de atenuación, o con las magnitudes  máximas de las fuentes sísmicas, o con 
+las tasas de actividad de las fallas, no se cons ideró conveniente en este estudio, ya que la 
+información sismológica disponible actual mente para la región, no proporciona una base 
+cierta que permita seleccionar valores de probabilidad para los diferentes parámetros 
+incluidos en el análisis de amenaza sísmica,  como lo requiere la metodología de los 
+árboles probabilísticos. 
+ 
+Teniendo en cuanta los anteriores aspectos, la  curva de amenaza sísmica recomendada es la 
+desarrollada siguiendo las relaciones establec idas por McGuirre, ecuación que conduce a 
+valores de aceleración más altos y por lo tant o más seguros desde el punto de vista del diseño 
+del proyecto. 
+ 
+ 
+3.4.5 Aceleraciones correspondient es a los sismos de diseño. 
+ 
+3.4.5.1 Aceleración correspondiente al SBO 
+ 
+La aceleración pico correspondiente al Sismo Bási co de Operación (SBO) ó OBE (Operating Basis 
+Earthquake) puede leerse de la curva de amenaza sí smica (Fig. 3.21 del informe), para un período 
+de retorno de 200 años (probabilidad anual de excedencia del 0.5 %). El valor obtenido de la curva 
+es 0,25g. Sin embargo, como se anotó anteriorment e, la curva de recurrencia de aceleraciones 
+tiene un límite de aplicabilidad, establecido por el marco sismotectónico en el cual se localiza el 
+proyecto. Dicho Límite corresponde a la máxima aceleración que puede ocurrir en el sitio, bajo el 
+escenario más desfavorable, es decir dada la ocu rrencia del Sismo Máximo Creíble (SMC) o MCE 
+(Maximum Credible Earthquake). Este valor de ac eleración máxima es precisamente el obtenido 
+del análisis determinístico de amenaz a sísmica, el cual resultó ser de 0,24g. Según la terminología 
+del Comité Americano de Grandes Presas (USCOLD) , este valor representa para el proyecto 
+Porce III el Controlling Maximum Credible Earthquak e (CMCE). En conclusión, la aceleración 
+correspondiente al OBE es 0,24g. 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1370
+30,,"3.4.5.2 Aceleración correspondiente al SMP 
+ 
+La aceleración correspondiente al Sismo Máxi mo Probable (SMP) ó MDE (Maximum Design 
+Earthquake) puede leerse de la curva de amenaz a sísmica, para un período de retorno de 1000 
+años (probabilidad anual de excedencia del 0.1 %). El  valor obtenido de la curva es 0,34g el cual 
+excede el límite de aplicabilidad de la curva de re currencia de aceleraciones, por lo cual la 
+aceleración propuesta para el SMP es 0,24g. 
+ 
+3.4.5.3 Aceleración correspondiente al SMC 
+ 
+El valor de la aceleración correspondiente al Sismo Máximo Creíble (SMC) ó MCE (Maximum 
+Credible Earthquake) se obtiene, siguiendo las indi caciones del grupo de consultores, como el 
+menor valor entre la aceleración determinístic a correspondiente al Controlling Maximum Credible 
+Earthquake (CMCE) y la aceleración con período de retorno del orden de 2500 años, obtenida 
+mediante un análisis probabilística. Entrando a la  curva de amenaza sísmica, para un período de 
+retorno de 2500 años (probabilidad anual de excedencia del 0.04 %), se obtiene una aceleración 
+de 0,43g. Este valor es mayor que el correspondi ente al CMCE y, por lo tanto, se propone una 
+aceleración pico de 0,24g. 
+ 
+ 
+3.4.6 Sismicidad inducida por el embalse. 
+ 
+La respuesta sísmica del llenado de embalses grandes varía considerablemente de un embalse a 
+otro debido a diversos factores entre los cuales se pueden mencionar la geología local y las 
+condiciones de esfuerzos existentes en la zona del embalse.  
+ 
+La distribución contra el tiempo de la sism icidad inducida por el llenado de grandes embalses 
+presenta dos tipos de respuesta. En algunos caso s, los movimientos sísmicos se presentan 
+inmediatamente se llena por primera vez el embal se.  En otros casos, el incremento en la 
+sismicidad solo se observa cuando se han completado varios ciclos de llenado.  
+ 
+Esta diferencia de respuesta corresponde a dos tipos  diferentes de mecanismos de esfuerzos. El 
+primer caso corresponde a una respuesta rápida y es un efecto directo del llenado al incrementar 
+los esfuerzos elásticos de cortante. El segundo caso corresponde a una respuesta retardada del 
+sistema y es debido al incremento en la presión de poros como respuesta al decremento en el 
+esfuerzo normal efectivo.  Este incremento de presión de poros puede estar ocasionado a su vez 
+por la reducción del volumen de poros que se ocas iona al incrementar la deformación volumétrica 
+o se presenta como resultado de la difusión de presiones (WCD 2000).  
+ 
+Como se mencionó en el capítulo anterior del informe, las fallas locales cercanas al sitio del 
+proyecto, como la falla Santa Gertrudis se consideran inactivas de acuerdo con su actividad 
+sísmica reciente. Estas fallas son las que pueden ll egar a ser activadas por efecto del llenado del 
+embalse. Debido a su inactividad sísmica recient e es difícil caracterizar completamente su 
+comportamiento y de esta manera establecer con precisión los parámetros necesarios para 
+establecer su incidencia específica en la am enaza sísmica del proyecto. Sin embargo de acuerdo 
+con los reconocimientos geológicos realizados en la zona del proyecto y la información disponible 
+de la red sismológica, no se espera que esta falla ni sus fallas satélites generen movimientos 
+sísmicos de la dimensión esperada por las fallas Romeral o Espíritu Santo o de la zona de 
+subducción.   
+ 
+Adicionalmente, existen pocos casos reportados en la literatura como ejemplos de sismicidad 
+inducida por la presencia de un embalse. Los ca sos reportados en el documento de la WCD por 
+Simpson (1998) corresponden a eventos con magnitudes  entre 4.6 y 5.8 en la escala de Ritcher. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1494
+31,,"INGETEC S.A. – KLOHN CRIPPEN CO. LTD.  INFORME SISMOLÓGICO FINAL  
+PROYECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX-XXX R0 \ sismológico R1.doc fsc Las presas de Kariba en Zambia/Zimbawe y As wan en Egipto generan embalses con volúmenes 
+superiores a los 160 km3 y registraron sismos de magnitudes entre 5.7 y 5.8 en la escala de 
+Ritcher. El embalse en Zambia  presentó una res puesta rápida ya que el  movimiento sísmico se 
+presento durante el primer año de operación del embalse, mientras que el embalse en Egipto 
+registró una respuesta tardía por cuanto el movimiento sísmico fue presenciado siete años 
+después del primer llenado del embalse. Actividad sísmica en embalses de menor tamaño ha sido reportada para las presas de Nurek en Tajikistan, Koyna en India y Oroville en los Estados Unidos 
+(USA). El tamaño de estos embalses se encuentra entre 10.4 y 2.8 km3. Las magnitudes de los 
+eventos que se han reportado en estos embalses se encuentran entre 5.7 y 4.6, presentando 
+respuestas al llenado tanto tardías (Koyna y Oroville) como rápidas  (Nurek). El embalse propuesto 
+para el proyecto de Porce III tendrá un volum en de 0.17 km3, valor que es considerablemente 
+menor que los casos reportados. De lo anterior se puede inferir un menor incremento en los esfuerzos inducidos en la zona del embalse de la presa Porce III. El Cuadro 3.8 describe los 
+ejemplos descritos de sismicidad induc ida por la presencia del embalse. 
+ 
+Cuadro 3.8 Ejemplos de sismicidad induc ida por la presencia de un embalse. 
+ 
+Presa 
+[País] Altura 
+[m] Volumen 
+[km
+3] Magnitud del Sismo 
+(Escala Ritcher) Años después del 
+primer llenado Tipo de 
+Respuesta 
+Nurek 
+(Tajikistan) 315 10.4 4.6 1 Rapida 
+Oroville 
+(USA) 235 4.3 5.7 7 Tardía 
+Kariba 
+(Zambia-
+Zimbawe) 128 160 5.8 1 Rapida 
+Aswan 
+(Egipto) 110 160 5.3 7 Tardía 
+Koyna 
+(India) 103 2.8 5.5 5 Tardía 
+ Tomado de: WCD (2000)  En conclusión, debido a la inactividad registrada en las fallas locales, su dimensión y el volumen del embalse, no se considerará un tipo específico de amenaza sísmica de las fallas locales inducida por la presencia del embalse y solamente se recomienda que durante la construcción y operación del embalse, muy especialmente durante los procesos de llenado y vaciado, se realice 
+un programa detallado de instrumentación sísmica en la zona para detectar cualquier tipo actividad 
+sísmica que se pueda presentar.",1011
+32,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.                                   
+ 
+INGETEC S.A. – KLOHN CRIPPEN CO. LTD.  INFORME SISMOLÓGICO FINAL  
+PROYECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX-XXX R0 \ sismológico R1.doc fsc 
+ CUADROS",154
+33,,"Fuente Modelo de RecurrenciaFrecuencia
+Sísmica
+Eventos/añoParámetro 
+β
+Falla Romeral Característico 0,475 1,927
+Falla Espíritu Santo Característico 0,438 2,789Falla Palestina Característico 1,438 2,031Falla Salinas Característico 2,713 2,111Zona de Benioff regional Exponencial 9,388 1,245
+FA-1 Exponencial 1,200 1,691
+FA-2 Exponencial 3,325 2,657FA-3 Exponencial 0,963 1,441FA-4 Exponencial 0,788 1,459FA-5 Exponencial 1,075 1,345FA-6 Exponencial 4,350 1,783
+CUADRO 3.4
+CONTRATO NO. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELECTRICO PORCE III
+PARÁMETROS SISMOLÓGICOS DE LAS
+FUENTES SÍSMICAS 
+Agosto, 2002",269
+34,,"FUENTELongitud
+(km)Longitud de 
+ruptura supuesta
+(km)
+(1) (2) (3)
+Falla Romeral 400 50 7,0 7,3 7,0
+Falla Espíritu Santo 300 40 6,0 7,1 7,0Falla Palestina 400 25 6,0 6,9 6,5Falla Salinas 300 30 6,5 7,0 7,0Zona de Benioff regional 600 300 7,5 8,2 8,0
+(1)     Estimado con base en la evidencia histórica y en la sismicidad regional.
+         Ms = 4,15 + Log (L
+R x h), (Wiss, M., 1979)
+         Ms = 0,809 + 1,341 Log L R, (Slemmons, D., 1977)
+         Ms = 2,021 + 1,142 Log L R, (Slemmons, D., 1977)
+         Ms = 1,404 + 1,169 Log L R, (Slemmons, D., 1977)
+         Ms = 5,08 + 1,160 Log L R, (Wells, D., 1994)
+         Ms = 4,08 + 0,980 Log (L R x h), (Wells, D., 1994)(2)     Estimado con base en la longitud de ruptura, tomando el promedio obtenido mediante las ecuaciones:M max
+(3)     Estimado mediante el método de Lomnitz
+CUADRO 3.5
+CONTRATO NO. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELECTRICO PORCE III
+METODOS DE CALCULO DE MAGNITUDES MÁXIMAS PARA
+FUENTES SÍSMICAS
+Agosto 30, 2002",482
+35,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE
+REV. 1
+Noviembre 27, 2002FUENTE M máx 
+Falla Rome ral 7.0 
+Falla Espíritu Santo 6.5 
+Falla Palestina  6.5 
+Falla Salinas 6.5 
+Zona de B enioff reg ional 8.0 
+FA-1 7.0 
+FA-2 7.0 
+FA-3 7.0 
+FA-4 7.0 
+FA-5 7.5 
+FA-6 7.0 
+ 
+MAGNITUD ES MAXIMAS PARA LA S 
+FUENTE S SISMICAS CUADRO 3.6",192
+36,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+CUADRO 3.7 
+Hoja 1 de 1 RESULTADOS DEL ANÁLISIS DETERMINÍSTICO 
+DE AMENAZA SÍSMICA REV. 0 
+AGOSTO 30, 2002 
+  
+Fuente Dist, km Prof, km Mmáx McGuire Donovan UNAM Boore, 1997 Youngs, 1997
+F. Romeral 60 27 7.0 0.13 0.09 0.07 0.097 No aplica
+F. Esp. Santo 50 32 6.5 0.11 0.08 0.06 0.086 No aplicaF. Palestina 60 30 6.5 0.10 0.07 0.06 0.075 No aplicaF. Salinas 160 40 6.5 0.03 0.02 0.015 0.035 No aplicaSubducc regional 83 86 8.0 0.18 0.11 0.18 0.13 0.24
+FA - 1 (subducc) 100 120 7.0 0.05 0.06 0.035 0.065 0.043
+FA - 2 (subducc) 180 190 7.0 0.03 0.01 0.017 0.041 0.026FA - 3 (subducc) 90 170 7.0 0.04 0.02 0.022 0.071 0.041FA - 4 (subducc) 60 50 7.0 0.10 0.07 0.08 0.097 0.076FA - 5 (subducc) 130 40 7.5 0.08 0.05 0.07 0.069 0.050
+FA - 6 (subducc) 150 30 7.0 0.05 0.03 0.04 0.048 0.026Acel
+, g",437
+37,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.                                   
+ 
+INGETEC S.A. – KLOHN CRIPPEN CO. LTD.  INFORME SISMOLÓGICO FINAL  
+PROYECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX-XXX R0 \ sismológico R1.doc fsc 
+ FIGURAS",154
+38,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.1 
+Hoja 1 de 1 RUPTURA DE UNA FALLA GEOLÓGICA REV. 0 
+AGOSTO 16, 2002 
+  
+Ruptura Foco Sísmico 
+Sitio 1 
+Sitio 2 d2 d1 d1’ Falla Geológica",124
+40,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.3 
+Hoja 1 de 1 SECCIÓN 1 – 1’.  DISTRIBUCIÓN DE LA  
+PROFUNDIDAD DE LOS SISMOS REV. 0 
+AGOSTO 16, 2002 
+  -250-200 -150-100-5000 50 100 150 200 250 300 350 400 450 500 550 600
+Di s tanci a (k m )Profundidad (km)
+Zona de 
+Benioff
+F. Romeral
+F. Espíritu Santo
+Proy.
+ Porce III
+F. La Palestina
+F. Salinas",187
+41,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.4 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FALLA ROMERAL REV. 0 
+AGOSTO 16, 2002 
+  0.1110100
+0123456
+MagnitudNo. de Eventos",109
+42,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.5 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FALLA ESPÍRITU SANTO REV. 0 
+AGOSTO 16, 2002 
+  110100
+11 . 522 . 5 33 . 544 . 5
+MagnitudNo. de Eventos",121
+43,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.6 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FALLA PALESTINA REV. 0 
+AGOSTO 16, 2002 
+  
+1101001000
+0123456
+MagnitudNo. de Eventos",111
+44,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.7 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FALLA SALINAS REV. 0 
+AGOSTO 16, 2002 
+  1101001000
+0123456
+MagnitudNo. de Eventos",109
+45,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.8 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA ZONA DE BENIOFF 1 REV. 0 
+AGOSTO 16, 2002 
+   
+110100100010000
+012345678
+MagnitudNo. de Eventos",116
+46,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.9 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 1 REV. 0 
+AGOSTO 16, 2002 
+  110100
+2 2.2 2.4 2.6 2.8 3 3.2 3.4 3.6 3.8 4
+MagnitudNo. de Eventos",134
+47,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.10 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 2 REV. 0 
+AGOSTO 16, 2002 
+  110100
+22 . 533 . 544 . 5
+MagnitudNo. de Eventos",116
+48,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.11 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 3 REV. 0 
+AGOSTO 16, 2002 
+  0.1110100
+2 2.5 3 3.5 4 4.5 5 5.5 6 6.5
+MagnitudNo. de Eventos",130
+49,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.12 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 4 REV. 0 
+AGOSTO 30, 2002 
+  0.1110100
+1234567
+MagnitudNo. de Eventos",113
+50,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.13 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 5 REV. 0 
+AGOSTO 16, 2002 
+  0.1110100
+1234567
+MagnitudNo. de Eventos",113
+51,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.14 
+Hoja 1 de 1 RECURRENCIA DE MAGNITUDES  
+PARA LA FUENTE ÁREA 6 REV. 0 
+AGOSTO 16, 2002 
+  0.11101001000
+1234567
+MagnitudNo. de Eventos",114
+52,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.15 
+Hoja 1 de 1 MAGNITUD MÁXIMA PARA LA FALLA 
+ROMERAL, SEGÚN LOMNITZ REV. 0 
+AGOSTO 16, 2002 
+  
+0.1110
+1 10 100
+Eventos con Mag. ≥ M(Mmáx - M)Ma g . 7,5
+Ma g . 7,0
+Ma g . 6,5
+Ma g . 6,0
+Ma g . 5,5",162
+53,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.16 
+Hoja 1 de 1 MAGNITUD MÁXIMA PARA LA FALLA 
+ESPÍRITU SANTO, SEGÚN LOMNITZ REV. 0 
+AGOSTO 16, 2002 
+  0.1110
+11 0 1 0 0
+Eventos con Mag. ≥ M(Mmáx - M)M ag. 7,5
+M ag. 7,0
+M ag. 6,5
+M ag. 6,0
+M ag. 5,5
+M ag. 5,0",176
+54,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.17 
+Hoja 1 de 1 MAGNITUD MÁXIMA PARA LA FALLA 
+PALESTINA, SEGÚN LOMNITZ REV. 0 
+AGOSTO 16, 2002 
+  
+0.1110
+1 10 100 1000
+Eventos con Mag. ≥ M(Mmáx - M)Ma g . 7,5
+Ma g . 7,0
+Ma g . 6,5
+Ma g . 6,0
+Ma g . 5,5",165
+55,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.18 
+Hoja 1 de 1 MAGNITUD MÁXIMA PARA LA FALLA 
+SALINAS, SEGÚN LOMNITZ REV. 0 
+AGOSTO 30, 2002 
+  
+0.1110
+1 10 100 1000
+Eventos con Mag. ≥ M(Mmáx - M)Mag. 7,5
+Mag. 7,0
+Mag. 6,5
+Mag. 6,0",154
+56,,"CONTRATO No. 030213329 
+DISEÑOS DETALLADOS 
+PROYECTO HIDROELÉCTRICO PORCE III  
+ 
+FIGURA 3.19 
+Hoja 1 de 1 MAGNITUD MÁXIMA PARA LA ZONA 
+DE BENIOFF, SEGÚN LOMNITZ REV. 0 
+AGOSTO 16, 2002 
+   
+0.1110
+1 10 100 1000 10000
+Eventos con Mag. ≥ M(Mmáx - M)Ma g . 9,0
+Ma g . 8,5
+Ma g . 8,0
+Ma g . 7,5",160
+59,,,73
+59,4. ESPECTROS Y SISMOS DE DISEÑO,"4.1 METODOLOGIA 
+ 
+En la actualidad existen dos metodologías para el análisis del comportamiento dinámico de las 
+estructuras. La primera de ellas corresponde al anális is en el dominio de la frecuencia de la señal 
+de excitación, técnica en la cual se emplea el es pectro de diseño. La otra metodología involucra el 
+denominado análisis en el dominio del tiempo. En este tipo de análisis, acelerogramas reales o 
+sintéticos son empleados para establecer la histor ia en el tiempo de la respuesta de la estructura. 
+Estas son las metodologías utilizadas comúnmente en los análisis estructurales, la primera 
+utilizada en los casos que involucran comportamientos  elásticos de las estructuras en estudio, 
+mientras que la segunda es utilizada principalmente en los análisis que involucran algún tipo de 
+comportamiento no lineal del material o de la geometría de la estructura. 
+ 
+De esta manera, la amenaza sísmica del proy ecto debe incluir un grupo de espectros de diseño y 
+acelerogramas que representen el comportamient o dinámico esperado de las fuentes sísmicas 
+activas en la zona.  
+ 
+Para la elaboración de los espectros de dis eño se utilizo la metodología de los análisis 
+probabilísticos de amenaza sísmica (PSHA) empl eando el concepto de espectro de respuesta para 
+curvas con el mismo nivel de amenaza ( equal-hazard response spectrum ).  Esta metodología 
+incluye básicamente los siguientes pasos: 
+ 
+• Definición y caracterización de las fuentes sísmicas.  
+• Selección de las ecuaciones de atenuación y defin ición de las amplitudes espectrales para 
+diferentes periodos de vibración. 
+• Desarrollo de las curvas de amenaza sísmica para las aceleraciones máximas del terreno 
+(PGA) y las amplitudes espectrales de res puesta (Sa) para diferentes periodos de 
+vibración de la estructura.  
+• Construcción del espectro de respuesta a partir de los resultados de las curvas de 
+amenaza. 
+ 
+Los parámetros utilizados para la definición de la s fuentes sísmicas, las ecuaciones de atenuación 
+y las curvas de amenaza sísmica son descritos en las secciones previas de este informe. Para 
+estas tareas y para la construcción del espectro se utilizo el programa FRISK.  
+ 
+El espectro de respuesta para el mismo ni vel de amenaza fue desarrollado para una probabilidad 
+anual de excedencia de 0.04% correspondiente a un periodo de retorno de 2500 años. Este evento 
+considerado corresponde al Sismo Máximo Creíble (SMC). Como se describe en el capítulo 3 de 
+este informe, la aceleración máxima del event o correspondiente al SMC se determinó a través de 
+métodos determinísticos y es igual a 0.24g., nive l de aceleración que es el mismo para el sismo 
+básico de operación (SBO) y el sismo máximo pr obable (SMP). La Figura 4.1 presenta el espectro 
+de respuesta obtenido a partir de esta metodología.  Las ordenadas representan la razón entre la 
+aceleración espectral y la acel eración máxima del terreno. El amortiguamiento utilizado es de 5% 
+con respecto al amortiguamiento crítico del sist ema. El espectro de respuesta con el eje ordenado 
+igual a la aceleración espectral  es presentado en la Figura 4.2 
+ 
+De acuerdo a los resultados obtenidos en el capítulo anterior de este informe, la mayor 
+contribución a la amenaza sísmica del proyecto  corresponde a la zona de subducción, seguida por 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1292
+60,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.. 51  las contribuciones de las fallas Romeral y Espíritu  Santo.. Por esta razón, el espectro de diseño  representa particularmente la sismicidad originada en estos fallamientos.. Una vez definido el  espectro de diseño, se debe proceder a la escogencia de un grupo de acelerogramas  para ser  utilizados en los análisis contra el tiempo.. De spués de una minuciosa revisión del catalogo de  acelerogramas de la Red Nacional de Acelerógrafos  de Colombia (RNAC), solamente se encontró  un evento sísmico que fuese repres entativo de las fallas regionales en la zona del embalse.. Este  sismo ocurrió el 11 de Junio de 1996 y tuvo epicent ro en Zaragoza (Antioquia).. Los datos de este  movimiento sísmico se resumen en el Cuadro 4.. 2.. La Figura 4.3 se presenta el espectro de  respuesta de esta señal escalada a la máxima  aceleración esperada comparada con el espectro  de diseño propuesto.. Como se puede apreciar el espectro de diseño contiene las frecuencias de la  señal de las fuentes locales.. Cuadro 4.2.. Evento sísmico de las fallas locales.. Latitud Longitud Localidad Magnitud  7.44 N 74.5 W Zaragoza (Antioquia) 5.6    Usualmente la escogencia de los acelerogramas de diseño se lleva a cabo a través de la utilización  de sismos históricos (que pueden haber sido generados en un marco tectónico diferente al  estudiado), sismos locales escalados a los valore s de aceleración máxima o sismos sintéticos  elaborados a partir de espectros de diseño o a través de la modelación de la tectónica de la región.. Debido a que los sismos históricos no repres entan adecuadamente el comportamiento frecuencial  de las señales que puedan ser originadas en el sitio del proyecto, se decidió utilizar sismos locales  escalados o sismos sintéticos generados a partir del espectro de diseño.. Sin embargo, como se  mencionó anteriormente, solo un evento sísmico representativo de las fallas locales fue encontrado  en el catalogo de acelerogramas de la RNAC, razón por la cual se opto por obtener varias señales  artificiales generadas a partir del espectro de diseño establecido.. Para esta tarea se utilizo el programa SIMQKE.. Esta aplicación utiliza el  espectro como función  objetivo y reproduce señales de acuerdo a una dist ribución de duraciones establecidas por el  usuario.. Dobry y otros han desarrollado varios es tudios que correlacionan la duración de la fase  intensa del sismo con la magnitud del evento.. Utilizando esta correlación se obtuvo una duración  de 40 segundos para una magnitud de 8.0.. Para este  tipo de magnitudes, este tipo de regresiones  tienden a sobre estimar la duración de los movimient os sísmicos.. Por esta razón se determinó que  la duración máxima del sismo generado en la zona de subducción fuese de 35 segundos.. Teniendo en cuenta la distancia del sitio del proyec to a la fuente sismogénica y la diferencia de  tiempos de llegada de las ondas P y S se estimo que la fase de ascenso tendría una duración de  7.5 segundos.. Adicionalmente se consideró una fase estable de 18.5 segundos y una fase de  descenso de 14 segundos.. El sismo originado en las fallas locales no fue considerado debido a  que su intensidad es menor que la definida para el evento de la zona de subducción.. Tres señales estadísticamente diferent es fueron elaboradas siguiendo la metodología  anteriormente descrita.. Las Figuras  4.4, 4.5 y 4.6, muestran los acelerogramas correspondientes a  estas señales y las Figuras 4.7, 4.8 y 4.9 presentan el espectro de respuesta de aceleraciones.. En  estas ultimas gráficas se aprecia además el espec tro de diseño original para establecer el nivel de  aproximación alcanzado con la s señales sintéticas.. 4.2 COMPONENTE VERTICAL DE LOS MOVIMIENTOS SÍSMICOS DE DISEÑO    La componente vertical del sismo usualment e posee un mayor contenido frecuencial que la  componente horizontal, y por esta razón la forma espectral difiere de la establecida para las  señales horizontales.. Adicionalmente,  la aceleración máxima vertical  es diferente de la aceleración  INGETEC S.A. – KLO HN CRIPPEN CO ..",1427
+61,,"máxima horizontal. El Cuerpo de Ingenieros de los Estados Unidos en su documento de 
+recomendaciones para el diseño sísmico de presas  de concreto compactado con rodillo (1995), 
+recomienda el uso de la misma forma espectral  encontrada para los movimientos horizontales, 
+pero escalada por una razón que se encuentra determinada por la distancia del sitio de análisis a 
+las fuentes sísmicas y el periodo fundamental de la estructura. En este proyecto en particular, la 
+mínima distancia del sitio del proyecto a las fa llas activas es mayor a 60 Km, con lo cual para 
+cualquier periodo de la estructura se sugiere un fa ctor de 0.5 para escalar la aceleración máxima. 
+De esta manera la aceleración pico máxima de la componente vertical se establece en 0.12g para 
+el evento considerado como SMC. Con respecto a las frecuencias del espectro se estableció un 
+factor de 0.66 (2/3) para comprimir el eje del per iodo del espectro y de esta manera asumir que el 
+contenido frecuencial es mayor que el de la señal horizontal.  
+ 
+La Figura 4.10 muestra el espectro para la co mponente vertical, después de establecer las 
+modificaciones propuestas al espectro horizontal . Este espectro corresponde a un amortiguamiento 
+de 5% con respecto al amortiguamiento crítico del sistema. 
+ 
+Siguiendo la misma metodología establecida para los movimientos de diseño horizontales, tres 
+señales estadísticamente difer entes fueron generadas a partir del espectro de respuesta vertical. 
+Las señales son presentadas en las Figuras 4.11,  4.12 y 4.13. Las Figuras 4.14, 4.15 y 4.16 
+presentan los espectros de respuesta  en aceleración junto con el es pectro vertical de diseño.   
+ 
+ 
+4.3 EVALUACIÓN SÍSMICA DURANTE EL PERIODO DE CONSTRUCCIÓN. 
+ 
+Algunas de las estructuras del proyecto, necesit an ser diseñadas para una vida útil equivalente a la 
+duración de la construcción del proyecto. Este tipo particular de estructuras debe ser diseñado con 
+un sismo que correspondo a un periodo de exposición equivalente a la duración de la construcción 
+para un nivel de excedencia establecido. Se estableció de esta manera que el periodo de 
+exposición de las estructuras durante el proces o de construcción es de 3 años y se determinó una 
+probabilidad de excedencia del 10%. Estos valores corresponden a un evento con un periodo de 
+retorno de 28.4 años o a una probabilidad anual de excedencia igual a 0.035. De la curva de 
+amenaza sísmica determinada en el capítulo 3, par a la ecuación de atenuación de McGuire se lee 
+un valor de 0.145g para la aceleración máxima del  terreno. Utilizando este resultado, el espectro 
+de diseño horizontal es escalado para este valor de aceleración máxima y estos resultados son 
+presentados en la Figura 4.17. Si es necesaria  la utilización de una componente vertical en el 
+análisis, se recomienda utilizar el espectro obtenido en el numeral anterior escalado a un valor 
+máximo de 0.08g.   
+ 
+ 
+4.4 ESPECTRO DE DISEÑO PARA DIFERENT ES NIVELES DE AMORTIGUAMIENTO. 
+ 
+En las secciones anteriores los espectros de diseño establecidos fueron elaborados para un 
+amortiguamiento igual al 5% del amortiguamiento crítico del sistema. Existen ciertos casos 
+particulares en los cuales el amortiguamiento del si stema es diferente de este tradicional valor. En 
+especial, los análisis espectrales que involucren ca sos como la presa antes del primer llenado del 
+embalse o el sistema conformado por embal se-cimentación-presa necesitan niveles de 
+amortiguamiento menores o mayores al 5%. Por esta razón, en las Figuras 4.18 y 4.19 se 
+presentan los espectros de diseño para varios nive les de amortiguamiento del sistema (2%, 10% y 
+15%) para las dos componentes del sismo de diseño.  El cuadro 4.1 presenta los valores utilizados 
+para la elaboración de los espectros presentados en las anteriores figuras. 
+ 
+ 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",1547
+62,,"Cuadro 4.2. Aceleraciones es pectrales para diferentes niveles de amortiguamiento. 
+ 
+2% 5% 10% 15%
+0.01 0.240 0.240 0.240 0.240
+0.05 0.411 0.307 0.284 0.273
+0.10 0.631 0.442 0.347 0.323
+0.20 0.963 0.674 0.507 0.435
+0.25 0.995 0.707 0.528 0.452
+0.30 0.998 0.698 0.525 0.451
+0.40 0.950 0.654 0.495 0.429
+0.50 0.857 0.600 0.451 0.387
+0.60 0.763 0.534 0.402 0.345
+0.70 0.669 0.468 0.352 0.302
+0.80 0.585 0.410 0.308 0.264
+0.90 0.502 0.351 0.264 0.227
+1.00 0.446 0.312 0.235 0.201
+1.10 0.400 0.280 0.211 0.181
+1.20 0.358 0.251 0.188 0.162
+1.30 0.324 0.227 0.171 0.146
+1.40 0.292 0.205 0.154 0.132
+1.50 0.268 0.187 0.141 0.121
+1.60 0.240 0.168 0.126 0.108
+1.70 0.218 0.153 0.115 0.099
+1.81 0.196 0.137 0.103 0.088
+1.90 0.182 0.128 0.096 0.082
+2.00 0.171 0.120 0.090 0.077
+3.00 0.171 0.120 0.090 0.077Periodo
+[s]Amortiguam ientoAceleración Es pectral [g]
+ 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",646
+63,,"EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.                                   
+ 
+INGETEC S.A. – KLOHN CRIPPEN CO. LTD.  INFORME SISMOLÓGICO FINAL  
+PROYECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX-XXX R0 \ sismológico R1.doc fsc 
+ FIGURAS",154
+64,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+(Uniform Hazard Spectra P=0.001)
+0.000.501.001.502.002.503.00
+0.01 0.1 1 10
+Periodo [s]Sa/AmaxComponente Horizontalζ=5%
+FIGURA 4. 1
+Hoja 1 de 1ESPECT RO DE DISEÑO NORMALIZA DO 
+(SMC) - COMPO NENT E HORIZONTAL",157
+65,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+(Uniform Hazard Spectra P=0.001)
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Componente Horizontalζ=5%
+FIGURA 4. 2
+Hoja 1 de 1ESPECTRO DE DI SEÑO (SMC)
+COMP ONENTE H ORIZONTAL",165
+66,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Superficial Zaragoz a
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Componente Horizontal
+Zaragozaζ=5%
+ESPECTRO DE RESPUESTA
+ZARAG OZA Y SISMO DE DISE ÑO
+COMP ONENTE H ORIZONTALFIGURA 4. 3
+Hoja 1 de 1",182
+67,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-1 PGA = 0.24 g
+-0.25-0.2-0.15-0.1-0.0500.050.10.150.20.250.3
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 1
+COMP ONENTE H ORIZONTALFIGURA 4. 4
+Hoja 1 de 1",171
+68,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-2 PGA = 0.24 g
+-0.3-0.2-0.100.10.20.3
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 2
+COMP ONENTE H ORIZONTALFIGURA 4. 5
+Hoja 1 de 1",156
+69,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-3 PGA = 0.24 g
+-0.3-0.25-0.2-0.15-0.1-0.0500.050.10.150.20.25
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 3
+COMP ONENTE H ORIZONTALFIGURA 4. 6
+Hoja 1 de 1",173
+70,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 1
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintético 1ζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 1  –(SMC)
+COMP ONENTE H ORIZONTALFIGURA 4. 7
+Hoja 1 de 1",189
+71,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 2
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintético 2ζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 2  –(SMC)
+COMP ONENTE H ORIZONTALFIGURA 4. 8
+Hoja 1 de 1",189
+72,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 3
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintético 3ζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 3  –(SMC)
+COMP ONENTE H ORIZONTALFIGURA 4. 9
+Hoja 1 de 1",189
+73,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+(Uniform Hazard Spectra P=0.001)
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Componente Verticalζ=5%
+FIGURA 4. 10
+Hoja 1 de 1ESPECTRO DE DI SEÑO (SMC) 
+COMP ONENTE V ERTICA L",165
+74,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-1 PGA = 0.12 g
+-0.3-0.2-0.10.00.10.20.3
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 1
+COMP ONENTE V ERTICA LFIGURA 4. 11
+Hoja 1 de 1",158
+75,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-2 PGA = 0.12 g
+-0.3-0.2-0.10.00.10.20.3
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 2
+COMP ONENTE V ERTICA LFIGURA 4. 12
+Hoja 1 de 1",158
+76,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Acelerograma Sintético 
+SMC-3 PGA = 0.12 g
+-0.3-0.2-0.10.00.10.20.3
+0 5 10 15 20 25 30 35
+Tiempo [s]Aceleración [g]
+ACELE ROGRAMA (SMC)
+SEÑAL  SINT ETICA 3
+COMP ONENTE V ERTICA LFIGURA 4. 13
+Hoja 1 de 1",158
+77,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 1 Componente Vertical
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintéticoζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 1  –(SMC)
+COMP ONENTE V ERTICA LFIGURA 4. 14
+Hoja 1 de 1",191
+78,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 2 Componente Vertical
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintéticoζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 2  –(SMC)
+COMP ONENTE V ERTICA LFIGURA 4. 15
+Hoja 1 de 1",191
+79,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+SMC - Señal Sintética 3 Componente Vertical
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Espectro de Diseño
+Espectro Sismo Sintéticoζ=5%
+ESPECTRO DE RESPUESTA
+SEÑAL  SINT ETICA 3  –(SMC)
+COMP ONENTE V ERTICA LFIGURA 4. 16
+Hoja 1 de 1",191
+80,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Respuesta
+Sismo de Construcción P=0.035
+0.000.200.400.600.80
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Componente Horizontalζ=5%
+ESPECTRO DE DISEÑO
+SISM O DE  CONSTRUCCI ON 
+COMP ONENTE H ORIZONTALFIGURA 4. 17
+Hoja 1 de 1",174
+81,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Diseño SMC
+Componente Horiz ontal
+0.000.300.600.901.20
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Amortiguamiento 2%
+Amortiguamiento 5%
+Amortiguamiento 10%
+Amortiguamiento 15%
+ESPECTRO DE DI SEÑO (SMC)
+AMORTIG UAMIENTO 2 %, 5%, 
+10% Y 15% COMP ONENTE H ORIZONTALFIGURA 4. 18
+Hoja 1 de 1",208
+82,,"CONTRATO No. 030213329
+DISEÑOS DETALLADOS
+PROYECTO HIDROELÉCRICO PORCE III
+REV. 1
+Noviembre 27, 2002Espectro de Diseño SMC
+Componente Vertical
+0.000.250.500.751.00
+0 0.25 0.5 0.75 1 1.25 1.5 1.75 2
+Periodo [s]Aceleración Sa [g]Amortiguamiento 2%
+Amortiguamiento 5%
+Amortiguamiento 10
+Amortiguamiento 15%
+ESPECTRO DE DI SEÑO (SMC)
+AMORTIG UAMIENTO 2 %, 5%, 
+10% Y 15 % COMPO NENTE VER TICALFIGURA 4. 19
+Hoja 1 de 1",203
+83,,,71
+83,5. CONCLUSIONES,"- Las fuentes sísmicas que afectan el Proyecto Porce III son las fallas Romeral, Espíritu Santo, 
+Palestina, Salinas y la zona de subducción Nazca-Suramérica. 
+ 
+- La fuente con mayor contribución a la amenaza sísmica del proyecto, es la zona de subducción 
+Nazca-Suramérica. El contacto entre estas placas se localiza a una profundidad estimada de 80 
+km bajo el sitio del proyecto. 
+ 
+- La aceleración máxima correspondiente al sismo máxi mo creíble (SMC) en el sitio del proyecto es 
+de 0.24g. Para los escenarios correspondientes al  sismo básico de operación (SBO) y el sismo 
+máximo probable (SMP) la aceleración máxima fue obtenida a partir del valor límite determinado en 
+los análisis determinísticos y es igual a 0.24g. 
+ 
+-La amenaza sísmica del proyecto proviene de la s fuentes sísmicas r egionales identificadas 
+durante el estudio de evaluación sismológica. No  se considerará un tipo específico de amenaza 
+sísmica de las fallas locales inducida por la presencia del embalse. Adicionalmente, no se 
+encontraron fallas activas locales que afec tan las obras previstas del proyecto. 
+ 
+-Un grupo de acelerogramas sintéticos fueron desarrollados de acuerdo con los espectros de 
+diseño establecidos a partir del estudio de amenaza sísmica. Componentes horizontales y 
+verticales de los sismos de diseño fueron establecidas y recomendaciones específicas para la 
+amenaza sísmica durante el periodo de construcción fueron descritas. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",632
+84,,,71
+84,6. REFERENCIAS,"Abrahamson, N. A.; Silva, W. J. Empirical respons e spectral attenuation relations for shallow crustal 
+earthquakes. Seismological Research Letters , Vol 68, No 1, January/February 1997.  
+ 
+Asociación Colombiana de Ingeniería Sísmic a. Código colombiano de construcciones 
+sismorresistentes - NSR - 98,  Bogotá, Colombia, 1998.  
+ 
+Boore, D. M.; Joyner, W. B.; Fumal, T. E. E quations for estimating horizontal response spectra and 
+peak acceleration from western North Americ an earthquakes: A summary of recent work. 
+Seismological Research Letters, Vo l 68, No 1, January/February 1997.  
+ 
+Ingetec S.A., Hidramsa, CCC. Proyecto Porce III: Estudios de complementación y actualización de 
+la factibilidad técnica, económica y ambiental, In forme de sismicidad y amenaza sísmica. Bogotá,",268
+84,1998.,"Instituto de Ingeniería, Universidad Nacional Autónoma de México. Estimación de la amenaza 
+sísmica de la ciudad de Medellín. México D.F., 2000.  
+.  
+Integral S.A.. Estudio de evaluación de la pr esa Santa Rita: Actualización del estudio de 
+sismología, 1998.  
+ 
+Integral S.A.; SEDIC S. A. Proy ecto Hidroeléctrico Nechí: Diseño e ingeniería de las obras, Informe 
+final - Evaluación de la amenaza sísmica, 1998.  
+ 
+Integral S.A.. Proyecto Hidroel éctrico Porce II: Diseño e ingeniería  de las obras, Estudio de riesgo 
+sísmico, Informe final, 1991.  
+ 
+Integral S.A.. Proyecto Hidr oeléctrico Porce II: Diseño e ingeniería de las obras, Revisión del 
+estudio de riesgo sísmico, 1991.  
+ 
+Integral S.A., EAFIT, Ingeominas, Universi dad Nacional de Medellín. Instrumentación y 
+microzonificación sísmica del área urbana de Medellín, 1999.  
+ 
+Integral S.A.. Revisión amenaza sísmica Porce II, 2002.  
+ 
+Newmark, N. M.; Blume, J. A.; Kapur, K. K. Seismic design spectra for nuclear power plants. 
+Journal of the Power Division, Nov 1973.  
+ 
+Risk Engineering, Inc. EZ - FRISK User's m anual V. 2.1. Boulder Colorado, USA, 1995.  
+ 
+Risk Engineering, Inc. EZ - FRISK User's m anual V. 4.0. Boulder Colorado, USA, 1997.  
+ 
+Slemmons, D. B. State of the art for assessing ear thquake hazards in the United States: Faults and  
+earthquake magnitude, Reno, Nevada, 1977.  
+ 
+SIMQKE, “Simulation of Earthquake Ground Motions ”, E.H. Vanmarcke, C. A. Cornell, D.A. 
+Gasparini, and S.N. Hou, Department of Civil E ngineering, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts 1976. Modified: T.F. Blake, Newbury Park, California [PC DOS version]",634
+84,1990.,"INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",98
+85,,"Toro, G.; Abrahamson, N.; Schneider, J. F. Model  of strong ground motions from earthquakes in 
+central and eastern North America: Best estima tes and uncertainties. Seismological Research 
+Letters, Vol 68, No 1, January/February 1997.  
+ 
+U.S. Army Corps of Engineers ( 1995), “Seismic Design Provisions for Roller Compacted Concrete 
+Dams”, Engineering and Design Pamphlet # 1110-2- 12 30, Department of the Army, Washington 
+DC, Septiembre 1995. 
+ 
+United States Commiteee on Large Dams (USCOLD) . Updated guidelines for selecting seismic 
+parameters for dam projects, D enver, Colorado, USA, 1999.  
+ 
+Wells, D. L.; Coppersmith, K. J. New empirical relations among magnitude, rupture lengh, rupture 
+width, rupture area and surface displacement. Bulletin of the Seismological Society of America, Vol. 
+84, No 4, Aug 1994.  
+ 
+Woodward Clyde Consultants. G eología sísmica y sismicidad del noroeste de Colombia. Medellín, 
+Colombia, 1986.  
+ 
+Yeats, R. S.; Sieh, K.; Allen, C.  H. The geology of earthquakes. Oxfo rd University Press, New York, 
+USA,1997.  
+ 
+Youngs, R. R.; Chiou, S. J.; Silva, W. J.; Humprey, J. R. Strong ground motion attenuation 
+relationships for subduction zone earthquakes. Seis mological Research Letters, Vol 68, No 1, 
+January/February 1997.  
+ 
+Youngs, R. R.; Coppersmith, K. J. Implications of fault slip rates and earthquake recurrence models 
+to probabilistic seismic hazard estimates. Bulletin of the Seismological Society of America, Vol. 75, 
+No. 4, August 1985 
+ 
+WCD, World Commission on Dams (2000), “Oper ations, Monitoring and Decommissioning of 
+Dams”, WCD Revisión Temática, pp 61-62. 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",670
+86,,,111
+86,7. ANEXO 1,"CATÁLOGO SÍSMICO DEL PROYECT O PORCE III 
+ 
+ 
+ 
+INGETEC S.A. – KLO HN CRIPPEN CO . LTD.  INFO RME SISMO LÓGICO FINAL  
+PROY ECTO HIDROELÉCTRICO PORCE III  REV. 1 - NOVIEMBRE 27, 2002  
+PORCE 3 \1.8 \ XX- XXX R 0 \ sismológico R1.doc fsc",123
+87,,"ANEXO 1
+CATÁLOGO SÍSMICO DEL PROYECTO PORCE III
+No Año Mes Dia Lat, ° N Long, ° W X Y Prof, km Ms Dist, km
+1 1928 11 1 6,30 75,50 842575 1188697 0 3 81
+2 1930 5 29 7,00 74,50 953508 1266350 220 6 713 1932 5 14 8,20 73,50 1064441 1399470 0 3 2304 1935 9 18 5,50 76,00 787108 1099951 80 6,3 1865 1938 5 2 7,50 75,00 898041 1321817 100 5,8 656 1942 12 26 8,50 75,50 842575 1432750 0 6,5 1787 1944 4 12 6,20 76,40 742735 1177604 0 4,5 1628 1944 8 12 5,10 73,60 1053348 1055577 0 3 2669 1944 8 29 7,60 76,70 709455 1332910 0 4 188
+10 1944 8 29 7,60 76,70 709455 1332910 0 3,5 18811 1944 9 3 7,00 75,00 898041 1266350 0 4 1712 1948 8 6 5,20 74,50 953508 1066671 130 5 20513 1948 8 6 5,20 74,50 953508 1066671 0 3,5 20514 1948 8 8 5,20 74,50 953508 1066671 0 3,5 20515 1948 11 25 5,20 74,50 953508 1066671 0 3 20516 1949 1 27 6,10 75,90 798202 1166511 0 3,5 12517 1951 2 21 5,10 76,30 753828 1055577 0 3,5 24118 1951 8 14 5,20 74,50 953508 1066671 223 5 20519 1951 10 7 7,20 75,00 898041 1288537 96 5 3320 1952 2 14 7,43 76,39 743844 1314052 18 6,7 14921 1952 6 3 8,50 77,00 676175 1432750 96 4,1 27022 1952 10 30 8,70 76,30 753828 1454937 0 5,7 23423 1954 3 9 7,50 73,50 1064441 1321817 183 4,5 19224 1954 9 16 8,20 73,50 1064441 1399470 0 4,5 23025 1954 10 16 5,60 76,00 787108 1111044 0 4,5 17626 1955 6 11 6,00 74,20 986788 1155417 0 3,5 14727 1955 8 2 7,00 73,50 1064441 1266350 0 3,5 18228 1955 9 8 8,00 77,00 676175 1377284 0 5 23829 1956 2 7 6,68 76,63 717220 1230852 24 4 16830 1956 8 2 5,13 76,22 762703 1058905 103 4,5 23431 1956 9 6 7,50 77,00 676175 1321817 0 4,5 21632 1957 10 12 6,90 73,70 1042254 1255257 0 3,5 16033 1957 11 10 7,88 74,48 955727 1363972 52 5 12834 1957 12 13 6,76 76,75 703908 1239726 52 6,7 18035 1958 3 3 6,00 73,50 1064441 1155417 150 5 20936 1958 5 23 6,90 73,50 1064441 1255257 0 3,5 18237 1958 6 18 6,90 73,50 1064441 1255257 0 3,5 18238 1958 6 23 7,00 74,00 1008974 1266350 0 3 12739 1958 7 11 7,20 73,40 1075534 1288537 0 3,5 19540 1958 7 27 7,00 73,70 1042254 1266350 0 3,5 16041 1958 11 14 7,10 73,90 1020068 1277444 0 3 13942 1958 11 15 7,00 73,50 1064441 1266350 0 3 18243 1958 11 23 6,00 76,00 787108 1155417 0 4 14144 1958 11 26 7,20 73,50 1064441 1288537 218 4,5 18445 1958 12 5 7,00 77,00 676175 1266350 0 4,5 20746 1958 12 9 7,00 74,00 1008974 1266350 209 4,5 12747 1959 1 13 7,50 74,50 953508 1321817 134 4 9548 1959 1 26 7,50 73,50 1064441 1321817 0 3,5 19249 1959 2 26 6,75 76,50 731642 1238617 36 4 15350 1959 2 27 7,50 77,00 676175 1321817 0 3 21651 1959 3 1 7,50 77,00 676175 1321817 0 4 21652 1959 3 30 6,90 73,60 1053348 1255257 0 3,5 17153 1959 4 7 7,50 74,00 1008974 1321817 0 4 14154 1959 4 10 5,60 76,20 764922 1111044 0 3,5 189
+1 de 34",1142
