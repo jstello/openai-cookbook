@@ -14,9 +14,9 @@ import numpy as np
 import openai
 import pandas as pd
 import pickle
-import tiktoken
+import tiktoken# %%
 
-COMPLETIONS_MODEL = "gpt-3.5-turbo"
+CHAT_MODEL = "gpt-3.5-turbo"
 COMPLETIONS_MODEL = "text-davinci-003"
 EMBEDDING_MODEL = "text-embedding-ada-002"
 
@@ -93,10 +93,10 @@ def load_embeddings(fname: str):
 # Read api key from environment variable
 import os
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 document_embeddings = compute_doc_embeddings(df)
-# %%
+
 # Save the embeddings to a CSV so we can load them later.
 pd.DataFrame(document_embeddings).T.to_csv("fine-tuned_qa/porce-III-data/Porce Embeddings.csv")
 # In[12]:
@@ -227,11 +227,25 @@ print("===\n", prompt)
 COMPLETIONS_API_PARAMS = {
     # We use temperature of 0.0 because it gives the most predictable, factual answer.
     "temperature": 0.5,
-    "max_tokens": 200,
+    "max_tokens": 300,
     "model": COMPLETIONS_MODEL,
 }
 
 
+# %%
+import time
+
+def animate_string(long_string, time_step=0.1, line_length=80):
+    words = long_string.split()
+    current_line = ""
+    for word in words:
+        if len(current_line) + len(word) + 1 > line_length:
+            print(current_line)
+            current_line = word + " "
+        else:
+            current_line += word + " "
+        time.sleep(time_step)
+    print(current_line)
 # In[30]:
 
 
@@ -256,12 +270,19 @@ def answer_query_with_context(
     if show_prompt:
         print(prompt)
 
-    response = openai.Completion.create(
-                prompt=prompt,
-                **COMPLETIONS_API_PARAMS
-            )
+    # response = openai.Completion.create(
+    #             prompt=prompt,
+    #             **COMPLETIONS_API_PARAMS
+    #         )
+    response = openai.ChatCompletion.create(
+        model=CHAT_MODEL,
+        messages=[
+            {"role": "system", "content": "Your are a helpful assistant."},
+            {"role": "user", "content": prompt},
+        ]
+    )
 
-    string = split_string(response["choices"][0]["text"].strip(" \n"))
+    string = split_string(response["choices"][0]["message"]["content"].strip(" \n"))
     animate_string(string)
     return
 
@@ -270,26 +291,6 @@ def answer_query_with_context(
 
 
 answer_query_with_context("Cual es la fuente sismogenica predominante para la presa Porce III? Responde en detalle", df, document_embeddings)
-
-# %%
-import time
-
-def animate_string(long_string, time_step=0.1, line_length=80):
-    words = long_string.split()
-    current_line = ""
-    for word in words:
-        if len(current_line) + len(word) + 1 > line_length:
-            print(current_line)
-            current_line = word + " "
-        else:
-            current_line += word + " "
-        time.sleep(time_step)
-    print(current_line)
-
-# Example usage
-long_string = "This is a very long string that needs to be printed out word by word in an animation with a short time step and create a new line after about 80 characters."
-animate_string(long_string)
-
 
 
 # %%
